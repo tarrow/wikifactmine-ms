@@ -1,29 +1,65 @@
-PMC5530548,Q38646562,Protection mediated by chemokine CXCL10 in BALB/c mice infected by Leishmania infantum.,Q28335461,RAW 264.7,1,Q38646562	P921	Q28335461
-PMC5538826,Q38651215,Major satellite repeat RNA stabilize heterochromatin retention of Suv39h enzymes by RNA-nucleosome association and RNA:DNA hybrid formation.,Q28471145,to 2,1,Q38651215	P921	Q28471145
-PMC5539204,Q38430443,Integration of miRNA and mRNA expression profiles reveals microRNA-regulated networks during muscle wasting in cardiac cachexia.,Q5008075,C2C12,1,Q38430443	P921	Q5008075
-PMC5539237,Q38616795,Poly(HydroxyButyrate-co-HydroxyValerate) (PHBHV) Nanocarriers for Silymarin Release as Adjuvant Therapy in Colo-rectal Cancer.,Q28334700,HT-29,1,Q38616795	P921	Q28334700
-PMC5539260,Q38616692,Investigation of the Cross-talk Mechanism in Caco-2 Cells during Clostridium difficile Infection through Genetic-and-Epigenetic Interspecies Networks: Big Data Mining and Genome-Wide Identification.,Q5016050,Caco-2,1,Q38616692	P921	Q5016050
-PMC5540481,Q38429483,Pharmacoperone rescue of vasopressin 2 receptor mutants reveals unexpected constitutive activity and coupling bias.,Q847482,HeLa,1,Q38429483	P921	Q847482
-PMC5540485,Q38648361,"Improving patient safety culture in Saudi Arabia (2012-2015): trending, improvement and benchmarking.",Q28471145,to 2,1,Q38648361	P921	Q28471145
-PMC5540532,Q38646671,CRISPR/Cas9-mediated knockout of c-REL in HeLa cells results in profound defects of the cell cycle.,Q847482,HeLa,1,Q38646671	P921	Q847482
-PMC5546781,Q38621352,Effect of carbocisteine on patients with COPD: a systematic review and meta-analysis.,Q25112368,b16,1,Q38621352	P921	Q25112368
-PMC5548280,Q38638542,PDGF-metronidazole-encapsulated nanofibrous functional layers on collagen membrane promote alveolar ridge regeneration.,Q25112368,b16,1,Q38638542	P921	Q25112368
-PMC5550794,Q38609290,Laparoscopic ultrasonography as an alternative to intraoperative cholangiography during laparoscopic cholecystectomy.,Q28521737,Machi,1,Q38609290	P921	Q28521737
-PMC5538645,Q38649292,Dynamic transcriptome changes during adipose tissue energy expenditure reveal critical roles for long noncoding RNA regulators.,Q4636414,3T3-L1,1,Q38649292	P921	Q4636414
-PMC5550783,Q38694214,PBX1 attributes as a determinant of connexin 32 downregulation in Helicobacter pylori-related gastric carcinogenesis.,Q27546876,HEK293T,1,Q38694214	P921	Q27546876
-PMC5558632,Q38638521,Serum Osteocalcin and Testosterone Concentrations in Adult Males with or without Primary Osteoporosis: A Meta-Analysis.,Q25112368,B16,1,Q38638521	P921	Q25112368
-PMC5540291,Q38695963,Anti-tumor and anti-angiogenic effects of Fucoidan on prostate cancer: possible JAK-STAT3 pathway.,Q7118483,PC-3,1,Q38695963	P921	Q7118483
-PMC5540560,Q38648373,"Monoamine oxidase B is elevated in Alzheimer disease neurons, is associated with γ-secretase and regulates neuronal amyloid β-peptide levels.",Q489618,HEK293,1,Q38648373	P921	Q489618
-PMC5541071,Q38645850,Metformin Inhibits Cyst Formation in a Zebrafish Model of Polycystin-2 Deficiency.,Q28335011,MDCK,1,Q38645850	P921	Q28335011
-PMC5541742,Q38646275,Live-cell calcium imaging of adherent and non-adherent GL261 cells reveals phenotype-dependent differences in drug responses.,Q27547979,GL261,0.8333333333333334,Q38646275	P921	Q27547979
-PMC5539149,Q38648329,Selection of reference genes for expression analysis using RT-qPCR in the dissemination system of Heliothis virescens ascovirus 3 h (HvAV-3h).,Q2276068,Sf21,0.6666666666666666,Q38648329	P921	Q2276068
-PMC5541421,Q38646212,TREM2 in Neurodegenerative Diseases.,Q7670282,THP-1,0.6666666666666666,Q38646212	P921	Q7670282
-PMC5537225,Q38650711,Therapeutic efficacy of a respiratory syncytial virus fusion inhibitor.,Q847482,HeLa,0.5,Q38650711	P921	Q847482
-PMC5540501,Q38695555,The role of REST and HDAC2 in epigenetic dysregulation of Nav1.5 and nNav1.5 expression in breast cancer.,Q17577870,MDA-MB-231,0.5,Q38695555	P921	Q17577870
-PMC5554784,Q38646470,Dual RNA Processing Roles of Pat1b via Cytoplasmic Lsm1-7 and Nuclear Lsm2-8 Complexes.,Q489618,HEK293,0.5,Q38646470	P921	Q489618
-PMC5560418,Q38620573,Deficits in category learning in older adults: Rule-based versus clustering accounts.,Q27902825,c32,0.5,Q38620573	P921	Q27902825
-PMC5540453,Q38695956,Centella asiatica modulates cancer cachexia associated inflammatory cytokines and cell death in leukaemic THP-1 cells and peripheral blood mononuclear cells (PBMC's).,Q7670282,THP-1,0.38461538461538464,Q38695956	P921	Q7670282
-PMC5539091,Q38639865,Protopanaxadiol and Protopanaxatriol-Type Saponins Ameliorate Glucose and Lipid Metabolism in Type 2 Diabetes Mellitus in High-Fat Diet/Streptozocin-Induced Mice.,Q12513178,Min6,0.3333333333333333,Q38639865	P921	Q12513178
-PMC5546771,Q38694766,Exploring cellular uptake of iron oxide nanoparticles associated with rhodium citrate in breast cancer cells.,Q1881253,MCF-7,0.3333333333333333,Q38694766	P921	Q1881253
-PMC5539246,Q38639870,"HM015k, a Novel Silybin Derivative, Multi-Targets Metastatic Ovarian Cancer Cells and Is Safe in Zebrafish Toxicity Studies.",Q28335011,MDCK,0.25,Q38639870	P921	Q28335011
+PMC5503274,Q33888343,Overweight in young males reduce fertility in rabbit model.,Q179399,infertility,0.7142857142857143,Q33888343	P921	Q179399
+PMC5504549,Q33891765,Polycystic ovary syndrome induced by exposure to testosterone propionate and effects of sympathectomy on the persistence of the syndrome.,Q25556,anovulation,0.7142857142857143,Q33891765	P921	Q25556
+PMC5504800,Q33892665,Alcohol and fertility: how much is too much?,Q179399,infertility,0.7142857142857143,Q33892665	P921	Q179399
+PMC5504832,Q33892797,The attenuation of renal fibrosis by histone deacetylase inhibitors is associated with the plasticity of FOXP3+IL-17+ T cells.,Q18556674,Ureteral obstruction,0.7142857142857143,Q33892797	P921	Q18556674
+PMC5503987,Q33890223,The production of fibroblast growth factor 23 is controlled by TGF-β2.,Q1054718,kidney disease,0.5,Q33890223	P921	Q1054718
+PMC5507311,Q33897885,Direct medical cost associated with diabetic retinopathy severity in type 2 diabetes in Singapore.,Q1054718,Kidney Disease,0.5,Q33897885	P921	Q1054718
+PMC5507321,Q33897926,Predictors and long-term health outcomes of eating disorders.,Q179399,infertility,0.5,Q33897926	P921	Q179399
+PMC5503235,Q33888147,Benzodiazepine and Z-drug use and risk of pneumonia in patients with chronic kidney disease: A population-based nested case-control study.,Q1054718,kidney disease,0.45454545454545453,Q33888147	P921	Q1054718
+PMC5504712,Q33892341,Medical diagnosis as a linguistic game.,Q605006,glomerulonephritis,0.4444444444444444,Q33892341	P921	Q605006
+PMC5504722,Q33892377,Serum lactate level and mortality in metformin-associated lactic acidosis requiring renal replacement therapy: a systematic review of case reports and case series.,Q424337,acute kidney injury,0.4166666666666667,Q33892377	P921	Q424337
+PMC5479575,Q33821915,Measurement properties of patient-reported outcome measures (PROMs) used in adult patients with chronic kidney disease: A systematic review.,Q1054718,kidney disease,0.4166666666666667,Q33821915	P921	Q1054718
+PMC5481381,Q33826145,Serum C3 and Renal Outcome in Patients with Primary Focal Segmental Glomerulosclerosis.,Q5571239,glomerulosclerosis,0.4166666666666667,Q33826145	P921	Q5571239
+PMC5482951,Q33830349,Coffee and caffeine intake and male infertility: a systematic review.,Q179399,infertility,0.4166666666666667,Q33830349	P921	Q179399
+PMC5484693,Q33835256,"Serum hepcidin may be a novel uremic toxin, which might be related to erythropoietin resistance.",Q1054718,kidney disease,0.4166666666666667,Q33835256	P921	Q1054718
+PMC5485572,Q33837039,The Risk of Oxygen during Cardiac Surgery (ROCS) trial: study protocol for a randomized clinical trial.,Q1054718,kidney disease,0.4166666666666667,Q33837039	P921	Q1054718
+PMC5491167,Q33853514,Rapid deterioration of preexisting renal insufficiency after autologous mesenchymal stem cell therapy.,Q1054718,kidney disease,0.4166666666666667,Q33853514	P921	Q1054718
+PMC5493344,Q33860060,Comparison of the CBA-H and SF-36 for the screening of the psychological and behavioural variables in chronic dialysis patients.,Q1054718,Kidney Disease,0.4166666666666667,Q33860060	P921	Q1054718
+PMC5494879,Q33864537,Impact of comorbidities on gout and hyperuricaemia: an update on prevalence and treatment options.,Q1054718,kidney disease,0.4166666666666667,Q33864537	P921	Q1054718
+PMC5497357,Q33872095,White matter damage in maintenance hemodialysis patients: a diffusion tensor imaging study.,Q1054718,kidney disease,0.4166666666666667,Q33872095	P921	Q1054718
+PMC5501516,Q33883879,Dipeptidyl peptidase-4 inhibitor gemigliptin protects against vascular calcification in an experimental chronic kidney disease and vascular smooth muscle cells.,Q1054718,Kidney Disease,0.4166666666666667,Q33883879	P921	Q1054718
+PMC5502178,Q33885872,Rituximab alone as induction therapy for membranous lupus nephritis: A multicenter retrospective study.,Q1621830,lupus nephritis,0.4166666666666667,Q33885872	P921	Q1621830
+PMC5505305,Q33893947,Prevalence of Metabolic Syndrome Among the End-Stage Renal Disease Patients on Hemodialysis.,Q1054718,kidney disease,0.4166666666666667,Q33893947	P921	Q1054718
+PMC5507915,Q33899411,Defective CFTR leads to aberrant β-catenin activation and kidney fibrosis.,Q18556674,ureteral obstruction,0.4166666666666667,Q33899411	P921	Q18556674
+PMC5490085,Q38704023,Deviations from the expected relationship between serum FGF23 and other markers in children with CKD: a cross-sectional study.,Q1054718,kidney disease,0.38461538461538464,Q38704023	P921	Q1054718
+PMC5501337,Q33883362,The effect and safety of postmenopausal hormone therapy and selective estrogen receptor modulators on kidney outcomes in women: a protocol for systematic review and meta-analysis.,Q1054718,kidney disease,0.38461538461538464,Q33883362	P921	Q1054718
+PMC5508664,Q33901115,Endotoxemia is associated with acute coronary syndrome in patients with end stage kidney disease.,Q1054718,kidney disease,0.38461538461538464,Q33901115	P921	Q1054718
+PMC5511653,Q38650610,Dual Kidney Transplantation: A Review of Past and Prospect for Future.,Q5571239,glomerulosclerosis,0.38461538461538464,Q38650610	P921	Q5571239
+PMC5482296,Q33828481,Clinical Characteristics of Influenza-Associated Pneumonia of Adults: Clinical Features and Factors Contributing to Severity and Mortality.,Q1054718,kidney disease,0.35714285714285715,Q33828481	P921	Q1054718
+PMC5497195,Q33871820,The Risk of Upper Urinary Tract Involvement in Patients With Ketamine-Associated Uropathy.,Q246084,cystitis,0.35714285714285715,Q33871820	P921	Q246084
+PMC5500516,Q33881260,The impact of transient and persistent acute kidney injury on short-term outcomes in very elderly patients.,Q1054718,Kidney Disease,0.35714285714285715,Q33881260	P921	Q1054718
+PMC5505039,Q33893355,Increased C4 and decreased C3 levels are associated with a poor prognosis in patients with immunoglobulin A nephropathy: a retrospective study.,Q5571239,glomerulosclerosis,0.35714285714285715,Q33893355	P921	Q5571239
+PMC5505136,Q33893588,Control of lupus nephritis by changes of gut microbiota.,Q1621830,lupus nephritis,0.35714285714285715,Q33893588	P921	Q1621830
+PMC5508345,Q33900224,"Effects of Benazepril on Survival of Dogs with Chronic Kidney Disease: A Multicenter, Randomized, Blinded, Placebo-Controlled Clinical Trial.",Q1054718,kidney disease,0.35714285714285715,Q33900224	P921	Q1054718
+PMC5516395,Q33917001,Pregnancy outcomes in patients with acute kidney injury during pregnancy: a systematic review and meta-analysis.,Q424337,Acute Kidney Injury,0.35714285714285715,Q33917001	P921	Q424337
+PMC5507329,Q33897961,Acute kidney injury after cardiac surgery is associated with mid-term but not long-term mortality: A cohort-based study.,Q1054718,Kidney Disease,0.3333333333333333,Q33897961	P921	Q1054718
+PMC5496291,Q33868909,A clinico-pathological study of lupus nephritis based on the International Society of Nephrology-Renal Pathology Society 2003 classification system.,Q1621830,lupus nephritis,0.3333333333333333,Q33868909	P921	Q1621830
+PMC5505135,Q33893582,Intermedin attenuates renal fibrosis by induction of heme oxygenase-1 in rats with unilateral ureteral obstruction.,Q18556674,ureteral obstruction,0.3333333333333333,Q33893582	P921	Q18556674
+PMC5509972,Q33903533,Premature ovarian failure.,Q179399,infertility,0.3333333333333333,Q33903533	P921	Q179399
+PMC5516358,Q33916782,Temporal trends of dialysis requiring acute kidney injury after orthotopic cardiac and liver transplant hospitalizations.,Q1054718,Kidney Disease,0.3333333333333333,Q33916782	P921	Q1054718
+PMC5530477,Q38369451,The biobank for the molecular classification of kidney disease: research translation and precision medicine in nephrology.,Q1054718,kidney disease,0.3333333333333333,Q38369451	P921	Q1054718
+PMC5487476,Q33843362,Renal Oxygenation in the Pathophysiology of Chronic Kidney Disease.,Q1054718,kidney disease,0.3125,Q33843362	P921	Q1054718
+PMC5491034,Q33853010,"Low levels of serum ferritin and moderate transferrin saturation lead to adequate hemoglobin levels in hemodialysis patients, retrospective observational study.",Q1054718,kidney disease,0.3125,Q33853010	P921	Q1054718
+PMC5498573,Q33875661,Electronegative low-density lipoprotein increases the risk of ischemic lower-extremity peripheral artery disease in uremia patients on maintenance hemodialysis.,Q1054718,kidney disease,0.3125,Q33875661	P921	Q1054718
+PMC5500331,Q33880629,Validation of glomerular filtration rate-estimating equations in Chinese children.,Q1054718,kidney disease,0.3125,Q33880629	P921	Q1054718
+PMC5501411,Q33883586,Evaluating the feasibility of the KDIGO CKD referral recommendations.,Q1054718,kidney disease,0.3125,Q33883586	P921	Q1054718
+PMC5508479,Q33900584,Discovery of a novel dominant mutation in the REN gene after forty years of renal disease: a case report.,Q1054718,kidney disease,0.3125,Q33900584	P921	Q1054718
+PMC5519472,Q38695156,A Rare Adult Case with Diffuse Segmental Membranous Glomerulonephritis.,Q1713037,membranous glomerulonephritis,0.3125,Q38695156	P921	Q1713037
+PMC5533333,Q38655230,Simvastatin dose and acute kidney injury without concurrent serious muscle injury: A nationwide nested case-control study.,Q1054718,kidney disease,0.3125,Q38655230	P921	Q1054718
+PMC5457744,Q33760070,An observational study of 110 elderly lithium-treated patients followed up for 6 years with particular reference to renal function.,Q1054718,kidney disease,0.29411764705882354,Q33760070	P921	Q1054718
+PMC5483286,Q38710843,Incidence and diagnosis of Acute kidney injury in hospitalized adult patients: a retrospective observational study in a tertiary teaching Hospital in Southeast China.,Q1054718,kidney disease,0.2777777777777778,Q38710843	P921	Q1054718
+PMC5497196,Q33871826,Long-term Outcomes of Augmentation Enterocystoplasty in Patients With End-Stage Bladder Diseases: A Single-Institute Experience Involving 102 Patients.,Q1671412,interstitial cystitis,0.2777777777777778,Q33871826	P921	Q1671412
+PMC5498682,Q33876046,Current perspectives in the USA on the diagnosis and treatment of pelvic inflammatory disease in adolescents.,Q179399,infertility,0.2777777777777778,Q33876046	P921	Q179399
+PMC5508763,Q33901411,"Performance of urinary neutrophil gelatinase-associated lipocalin, clusterin, and cystatin C in predicting diabetic kidney disease and diabetic microalbuminuria: a consecutive cohort study.",Q1054718,kidney disease,0.2777777777777778,Q33901411	P921	Q1054718
+PMC5494353,Q33863130,Prevalence and management status of urologic disease in geriatric hospitals in South Korea: A population-based analysis.,Q1585769,Urolithiasis,0.2631578947368421,Q33863130	P921	Q1585769
+PMC5496858,Q33870550,Label Free Detection of Sensitive Mid-Infrared Biomarkers of Glomerulonephritis in Urine Using Fourier Transform Infrared Spectroscopy.,Q1621830,lupus nephritis,0.2631578947368421,Q33870550	P921	Q1621830
+PMC5503228,Q33888107,Cancer in Korean patients with end-stage renal disease: A 7-year follow-up.,Q1054718,kidney disease,0.25,Q33888107	P921	Q1054718
+PMC5496638,Q33870077,"Challenges and outcomes of haemodialysis among patients presenting with kidney diseases in Dodoma, Tanzania.",Q1054718,kidney disease,0.25,Q33870077	P921	Q1054718
+PMC5500525,Q33881299,Serum D-dimer is a potential predictor for thromboembolism complications in patients with renal biopsy.,Q1054718,kidney disease,0.25,Q33881299	P921	Q1054718
+PMC5509707,Q33903048,Insulin resistance and obesity among infertile women with different polycystic ovary syndrome phenotypes.,Q179399,infertility,0.23809523809523808,Q33903048	P921	Q179399
+PMC5480139,Q33823525,Membranous nephropathy: a retrospective observational study of membranous nephropathy in north east and central London.,Q1054718,Kidney Disease,0.23076923076923078,Q33823525	P921	Q1054718
+PMC5482940,Q33830312,"Prevalence of Chlamydia trachomatis, Neisseria gonorrhoeae, Mycoplasma genitalium and Ureaplasma urealyticum infections using a novel isothermal simultaneous RNA amplification testing method in infertile males.",Q179399,infertility,0.21739130434782608,Q33830312	P921	Q179399
+PMC5532772,Q38657082,Renal damage induced by pemetrexed causing drug discontinuation: a case report and review of the literature.,Q220551,Diabetes Insipidus,0.21428571428571427,Q38657082	P921	Q220551
+PMC5508428,Q33900415,Semen culture and the assessment of genitourinary tract infections.,Q1122485,urethritis,0.13513513513513514,Q33900415	P921	Q1122485
+PMC5540357,Q38652031,KDIGO Clinical Practice Guideline on the Evaluation and Care of Living Kidney Donors.,Q1054718,KIDNEY DISEASE,0.13157894736842105,Q38652031	P921	Q1054718
 

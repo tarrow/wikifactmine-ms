@@ -1,29 +1,83 @@
-PMC5530548,Q38646562,Protection mediated by chemokine CXCL10 in BALB/c mice infected by Leishmania infantum.,Q28335461,RAW 264.7,1,Q38646562	P921	Q28335461
-PMC5538826,Q38651215,Major satellite repeat RNA stabilize heterochromatin retention of Suv39h enzymes by RNA-nucleosome association and RNA:DNA hybrid formation.,Q28471145,to 2,1,Q38651215	P921	Q28471145
-PMC5539204,Q38430443,Integration of miRNA and mRNA expression profiles reveals microRNA-regulated networks during muscle wasting in cardiac cachexia.,Q5008075,C2C12,1,Q38430443	P921	Q5008075
-PMC5539237,Q38616795,Poly(HydroxyButyrate-co-HydroxyValerate) (PHBHV) Nanocarriers for Silymarin Release as Adjuvant Therapy in Colo-rectal Cancer.,Q28334700,HT-29,1,Q38616795	P921	Q28334700
-PMC5539260,Q38616692,Investigation of the Cross-talk Mechanism in Caco-2 Cells during Clostridium difficile Infection through Genetic-and-Epigenetic Interspecies Networks: Big Data Mining and Genome-Wide Identification.,Q5016050,Caco-2,1,Q38616692	P921	Q5016050
-PMC5540481,Q38429483,Pharmacoperone rescue of vasopressin 2 receptor mutants reveals unexpected constitutive activity and coupling bias.,Q847482,HeLa,1,Q38429483	P921	Q847482
-PMC5540485,Q38648361,"Improving patient safety culture in Saudi Arabia (2012-2015): trending, improvement and benchmarking.",Q28471145,to 2,1,Q38648361	P921	Q28471145
-PMC5540532,Q38646671,CRISPR/Cas9-mediated knockout of c-REL in HeLa cells results in profound defects of the cell cycle.,Q847482,HeLa,1,Q38646671	P921	Q847482
-PMC5546781,Q38621352,Effect of carbocisteine on patients with COPD: a systematic review and meta-analysis.,Q25112368,b16,1,Q38621352	P921	Q25112368
-PMC5548280,Q38638542,PDGF-metronidazole-encapsulated nanofibrous functional layers on collagen membrane promote alveolar ridge regeneration.,Q25112368,b16,1,Q38638542	P921	Q25112368
-PMC5550794,Q38609290,Laparoscopic ultrasonography as an alternative to intraoperative cholangiography during laparoscopic cholecystectomy.,Q28521737,Machi,1,Q38609290	P921	Q28521737
-PMC5538645,Q38649292,Dynamic transcriptome changes during adipose tissue energy expenditure reveal critical roles for long noncoding RNA regulators.,Q4636414,3T3-L1,1,Q38649292	P921	Q4636414
-PMC5550783,Q38694214,PBX1 attributes as a determinant of connexin 32 downregulation in Helicobacter pylori-related gastric carcinogenesis.,Q27546876,HEK293T,1,Q38694214	P921	Q27546876
-PMC5558632,Q38638521,Serum Osteocalcin and Testosterone Concentrations in Adult Males with or without Primary Osteoporosis: A Meta-Analysis.,Q25112368,B16,1,Q38638521	P921	Q25112368
-PMC5540291,Q38695963,Anti-tumor and anti-angiogenic effects of Fucoidan on prostate cancer: possible JAK-STAT3 pathway.,Q7118483,PC-3,1,Q38695963	P921	Q7118483
-PMC5540560,Q38648373,"Monoamine oxidase B is elevated in Alzheimer disease neurons, is associated with γ-secretase and regulates neuronal amyloid β-peptide levels.",Q489618,HEK293,1,Q38648373	P921	Q489618
-PMC5541071,Q38645850,Metformin Inhibits Cyst Formation in a Zebrafish Model of Polycystin-2 Deficiency.,Q28335011,MDCK,1,Q38645850	P921	Q28335011
-PMC5541742,Q38646275,Live-cell calcium imaging of adherent and non-adherent GL261 cells reveals phenotype-dependent differences in drug responses.,Q27547979,GL261,0.8333333333333334,Q38646275	P921	Q27547979
-PMC5539149,Q38648329,Selection of reference genes for expression analysis using RT-qPCR in the dissemination system of Heliothis virescens ascovirus 3 h (HvAV-3h).,Q2276068,Sf21,0.6666666666666666,Q38648329	P921	Q2276068
-PMC5541421,Q38646212,TREM2 in Neurodegenerative Diseases.,Q7670282,THP-1,0.6666666666666666,Q38646212	P921	Q7670282
-PMC5537225,Q38650711,Therapeutic efficacy of a respiratory syncytial virus fusion inhibitor.,Q847482,HeLa,0.5,Q38650711	P921	Q847482
-PMC5540501,Q38695555,The role of REST and HDAC2 in epigenetic dysregulation of Nav1.5 and nNav1.5 expression in breast cancer.,Q17577870,MDA-MB-231,0.5,Q38695555	P921	Q17577870
-PMC5554784,Q38646470,Dual RNA Processing Roles of Pat1b via Cytoplasmic Lsm1-7 and Nuclear Lsm2-8 Complexes.,Q489618,HEK293,0.5,Q38646470	P921	Q489618
-PMC5560418,Q38620573,Deficits in category learning in older adults: Rule-based versus clustering accounts.,Q27902825,c32,0.5,Q38620573	P921	Q27902825
-PMC5540453,Q38695956,Centella asiatica modulates cancer cachexia associated inflammatory cytokines and cell death in leukaemic THP-1 cells and peripheral blood mononuclear cells (PBMC's).,Q7670282,THP-1,0.38461538461538464,Q38695956	P921	Q7670282
-PMC5539091,Q38639865,Protopanaxadiol and Protopanaxatriol-Type Saponins Ameliorate Glucose and Lipid Metabolism in Type 2 Diabetes Mellitus in High-Fat Diet/Streptozocin-Induced Mice.,Q12513178,Min6,0.3333333333333333,Q38639865	P921	Q12513178
-PMC5546771,Q38694766,Exploring cellular uptake of iron oxide nanoparticles associated with rhodium citrate in breast cancer cells.,Q1881253,MCF-7,0.3333333333333333,Q38694766	P921	Q1881253
-PMC5539246,Q38639870,"HM015k, a Novel Silybin Derivative, Multi-Targets Metastatic Ovarian Cancer Cells and Is Safe in Zebrafish Toxicity Studies.",Q28335011,MDCK,0.25,Q38639870	P921	Q28335011
+PMC5502954,Q38373086,Coccidioidomycosis A Cause of Sarcoidosis.,Q16047894,California,1,Q38373086	P921	Q16047894
+PMC5503245,Q38686315,Effects of clinical and environmental factors on bronchoalveolar antibody responses to Pneumocystis jirovecii: A prospective cohort study of HIV+ patients.,Q16047894,California,1,Q38686315	P921	Q16047894
+PMC5503254,Q33888229,Molecular features of influenza A (H1N1)pdm09 prevalent in Mexico during winter seasons 2012-2014.,Q16047894,California,1,Q33888229	P921	Q16047894
+PMC5507276,Q33897770,Risk factors for delayed antiretroviral therapy initiation among HIV-seropositive patients.,Q16047894,California,1,Q33897770	P921	Q16047894
+PMC5503273,Q33888334,"Lesbian, gay, bisexual, and transgender (LGBT) health services in the United States: Origins, evolution, and contemporary landscape.",Q16047894,California,1,Q33888334	P921	Q16047894
+PMC5507274,Q33897763,Cultural effects on the association between election outcomes and face-based trait inferences.,Q16047894,California,1,Q33897763	P921	Q16047894
+PMC5479036,Q36410709,OrthoReD: a rapid and accurate orthology prediction tool with low computational requirement.,Q16047894,California,1,Q36410709	P921	Q16047894
+PMC5479817,Q33822437,Mycobacterial heat shock protein 65 mediated metabolic shift in decidualization of human endometrial stromal cells.,Q16047894,California,1,Q33822437	P921	Q16047894
+PMC5480110,Q33823384,Impact of tobacco industry and other corporations in the defeat of the 1994 Clinton health care plan.,Q16047894,California,1,Q33823384	P921	Q16047894
+PMC5480812,Q33825086,Brain network eigenmodes provide a robust and compact representation of the structural connectome in health and disease.,Q16047894,California,1,Q33825086	P921	Q16047894
+PMC5480872,Q33825259,"The importance of data quality for generating reliable distribution models for rare, elusive, and cryptic species.",Q16047894,California,1,Q33825259	P921	Q16047894
+PMC5480893,Q33825330,Bovine leukemia virus linked to breast cancer in Australian women and identified before breast cancer development.,Q16047894,California,1,Q33825330	P921	Q16047894
+PMC5481889,Q33827334,Ancient water bottle use and polycyclic aromatic hydrocarbon (PAH) exposure among California Indians: a prehistoric health risk assessment.,Q16047894,California,1,Q33827334	P921	Q16047894
+PMC5481906,Q36413527,A cohort study of a general surgery electronic consultation system: safety implications and impact on surgical yield.,Q16047894,California,1,Q36413527	P921	Q16047894
+PMC5481966,Q33827633,Buccal mucosa micronuclei counts in relation to exposure to low dose-rate radiation from the Chornobyl nuclear accident and other medical and occupational radiation exposures.,Q16047894,California,1,Q33827633	P921	Q16047894
+PMC5482437,Q33828824,Exploring the differences between pet and non-pet owners: Implications for human-animal interaction research and policy.,Q16047894,California,1,Q33828824	P921	Q16047894
+PMC5482898,Q33830191,Over Expression of Long Non-Coding RNA PANDA Promotes Hepatocellular Carcinoma by Inhibiting Senescence Associated Inflammatory Factor IL8.,Q16047894,California,1,Q33830191	P921	Q16047894
+PMC5484709,Q33835316,Self-diploidization of human haploid parthenogenetic embryos through the Rho pathway regulates endomitosis and failed cytokinesis.,Q16047894,California,1,Q33835316	P921	Q16047894
+PMC5484965,Q33835514,Mycosis fungoides presenting as symmetric concentric patches mimicking figurate erythema.,Q16047894,California,1,Q33835514	P921	Q16047894
+PMC5485544,Q33836910,Rapid sociometric mapping of community health workers to identify opinion leaders using an SMS platform: a short report.,Q16047894,California,1,Q33836910	P921	Q16047894
+PMC5485558,Q33836970,Maternal antibodies protect offspring from severe influenza infection and do not lead to detectable interference with subsequent offspring immunization.,Q16047894,California,1,Q33836970	P921	Q16047894
+PMC5487046,Q33842297,Ethnic differences in lens parameters measured by ocular biometry in a cataract surgery population.,Q16047894,California,1,Q33842297	P921	Q16047894
+PMC5487211,Q33842506,Semen amyloids participate in spermatozoa selection and clearance.,Q16047894,California,1,Q33842506	P921	Q16047894
+PMC5487490,Q33843409,Protecting the Environment for Self-interested Reasons: Altruism Is Not the Only Pathway to Sustainability.,Q16047894,California,1,Q33843409	P921	Q16047894
+PMC5489150,Q33848247,Climatic anomaly affects the immune competence of California sea lions.,Q16047894,California,1,Q33848247	P921	Q16047894
+PMC5489219,Q33848559,Abnormal dendritic maturation of developing cortical neurons exposed to corticotropin releasing hormone (CRH): Insights into effects of prenatal adversity?,Q16047894,California,1,Q33848559	P921	Q16047894
+PMC5489522,Q38703738,Trait-based model development to support breeding programs. A case study for salt tolerance and rice.,Q16047894,California,1,Q38703738	P921	Q16047894
+PMC5490190,Q33850979,The social inefficiency of regulating indirect land use change due to biofuels.,Q16047894,California,1,Q33850979	P921	Q16047894
+PMC5490203,Q33851019,Prevalence of sexual dimorphism in mammalian phenotypic traits.,Q16047894,California,1,Q33851019	P921	Q16047894
+PMC5491056,Q33853086,"Phosphorylation of the 19S regulatory particle ATPase subunit, Rpt6, modifies susceptibility to proteotoxic stress and protein aggregation.",Q16047894,California,1,Q33853086	P921	Q16047894
+PMC5491148,Q33853438,Biological interactions and cooperative management of multiple species.,Q16047894,California,1,Q33853438	P921	Q16047894
+PMC5491211,Q33853593,Cascades of emotional support in friendship networks and adolescent smoking.,Q16047894,California,1,Q33853593	P921	Q16047894
+PMC5491220,Q33853621,Detection of bacterial-reactive natural IgM antibodies in desert bighorn sheep populations.,Q16047894,California,1,Q33853621	P921	Q16047894
+PMC5491903,Q33855380,"The Selective Phosphoinoside-3-Kinase p110δ Inhibitor IPI-3063 Potently Suppresses B Cell Survival, Proliferation, and Differentiation.",Q16047894,California,1,Q33855380	P921	Q16047894
+PMC5491941,Q33855628,The Institute for Global Orthopedics and Traumatology: A Model for Academic Collaboration in Orthopedic Surgery.,Q16047894,California,1,Q33855628	P921	Q16047894
+PMC5491963,Q33855729,Impaired In Vivo Gamma Oscillations in the Medial Entorhinal Cortex of Knock-in Alzheimer Model.,Q16047894,California,1,Q33855729	P921	Q16047894
+PMC5492448,Q33857347,Geographic Distribution of Ammonia-Oxidizing Archaea along the Kuril Islands in the Western Subarctic Pacific.,Q16047894,California,1,Q33857347	P921	Q16047894
+PMC5493352,Q33860095,The SERTAD protein Taranis plays a role in Polycomb-mediated gene repression.,Q16047894,California,1,Q33860095	P921	Q16047894
+PMC5493654,Q33860957,Enhanced PM2.5 pollution in China due to aerosol-cloud interactions.,Q16047894,California,1,Q33860957	P921	Q16047894
+PMC5493769,Q33861446,Understanding dynamic friction through spontaneously evolving laboratory earthquakes.,Q16047894,California,1,Q33861446	P921	Q16047894
+PMC5493892,Q33861909,Precision oncology using a limited number of cells: optimization of whole genome amplification products for sequencing applications.,Q16047894,California,1,Q33861909	P921	Q16047894
+PMC5494614,Q33863854,Spatial Patterns and Impacts of Environmental and Climatic Factors on Canine Sinonasal Aspergillosis in Northern California.,Q16047894,California,1,Q33863854	P921	Q16047894
+PMC5495152,Q33865382,Structural and Functional Characterization of Human Stem-Cell-Derived Retinal Organoids by Live Imaging.,Q16047894,California,1,Q33865382	P921	Q16047894
+PMC5495298,Q38696638,Signaling pathways induced by serine proteases to increase intestinal epithelial barrier function.,Q16047894,California,1,Q38696638	P921	Q16047894
+PMC5495755,Q33866789,Exposure history determines pteropod vulnerability to ocean acidification along the US West Coast.,Q16047894,California,1,Q33866789	P921	Q16047894
+PMC5496190,Q33868457,Social and demographic drivers of trend and seasonality in elective abortions in Denmark.,Q16047894,California,1,Q33868457	P921	Q16047894
+PMC5497997,Q33873927,Receptor for advanced glycation endproducts (RAGE) maintains pulmonary structure and regulates the response to cigarette smoke.,Q16047894,California,1,Q33873927	P921	Q16047894
+PMC5498068,Q33874236,Development of ELISAs for diagnosis of acute typhoid fever in Nigerian children.,Q16047894,California,1,Q33874236	P921	Q16047894
+PMC5498569,Q33875646,Miniature probe for mapping mechanical properties of vascular lesions using acoustic radiation force optical coherence elastography.,Q16047894,California,1,Q33875646	P921	Q16047894
+PMC5498978,Q38692493,Data normalization considerations for digital tumor dissection.,Q16047894,California,1,Q38692493	P921	Q16047894
+PMC5498983,Q33876797,"Understanding barriers to medication, dietary, and lifestyle treatments prescribed in polycystic kidney disease.",Q16047894,California,1,Q33876797	P921	Q16047894
+PMC5499646,Q33878435,Wayfinding and Glaucoma: A Virtual Reality Experiment.,Q16047894,California,1,Q33878435	P921	Q16047894
+PMC5500003,Q33879490,RNA stores tau reversibly in complex coacervates.,Q16047894,California,1,Q33879490	P921	Q16047894
+PMC5501390,Q33883518,Clearing muddied waters: Capture of environmental DNA from turbid waters.,Q16047894,California,1,Q33883518	P921	Q16047894
+PMC5501400,Q33883549,The proximal experience of gratitude.,Q16047894,California,1,Q33883549	P921	Q16047894
+PMC5501620,Q38689312,Defining and characterizing the critical transition state prior to the type 2 diabetes disease.,Q16047894,California,1,Q38689312	P921	Q16047894
+PMC5501859,Q33885070,Computational sensing of herpes simplex virus using a cost-effective on-chip microscope.,Q16047894,California,1,Q33885070	P921	Q16047894
+PMC5501884,Q33885150,Spatial working memory in neurofibromatosis 1: Altered neural activity and functional connectivity.,Q16047894,California,1,Q33885150	P921	Q16047894
+PMC5504297,Q33891102,El Niño-like teleconnection increases California precipitation in response to warming.,Q16047894,California,1,Q33891102	P921	Q16047894
+PMC5504382,Q38661290,Nutrient and Rainfall Additions Shift Phylogenetically Estimated Traits of Soil Microbial Communities.,Q16047894,California,1,Q38661290	P921	Q16047894
+PMC5504850,Q33892881,High cancer mortality for US-born Latinos: evidence from California and Texas.,Q16047894,California,1,Q33892881	P921	Q16047894
+PMC5506223,Q38658905,Stoichiometric Mismatch between Consumers and Resources Mediates the Growth of Rocky Intertidal Suspension Feeders.,Q16047894,California,1,Q38658905	P921	Q16047894
+PMC5507397,Q33898120,Validation of the sensitivity of the National Emergency X-Radiography Utilization Study (NEXUS) Head computed tomographic (CT) decision instrument for selective imaging of blunt head injury patients: An observational study.,Q16047894,California,1,Q33898120	P921	Q16047894
+PMC5507438,Q33898222,Age dependent differences in the kinetics of γδ T cells after influenza vaccination.,Q16047894,California,1,Q33898222	P921	Q16047894
+PMC5507535,Q33898571,Postfire responses of the woody flora of Central Chile: Insights from a germination experiment.,Q16047894,California,1,Q33898571	P921	Q16047894
+PMC5507636,Q33898855,Disabling Cas9 by an anti-CRISPR DNA mimic.,Q16047894,California,1,Q33898855	P921	Q16047894
+PMC5507920,Q33899438,Different Repeat Annual Influenza Vaccinations Improve the Antibody Response to Drifted Influenza Strains.,Q16047894,California,1,Q33899438	P921	Q16047894
+PMC5508114,Q38373496,Acceptance of Mobile Health in Communities Underrepresented in Biomedical Research: Barriers and Ethical Considerations for Scientists.,Q16047894,California,1,Q38373496	P921	Q16047894
+PMC5508635,Q33901015,Knowledge mapping visualization analysis of the military health and medicine papers published in the web of science over the past 10 years.,Q16047894,California,1,Q33901015	P921	Q16047894
+PMC5508707,Q33901244,Unexpected intensive care transfer of admitted patients with severe sepsis.,Q16047894,California,1,Q33901244	P921	Q16047894
+PMC5509654,Q33902793,Mountain gorilla lymphocryptovirus has Epstein-Barr virus-like epidemiology and pathology in infants.,Q16047894,California,1,Q33902793	P921	Q16047894
+PMC5509708,Q33903054,Patch clamp-assisted single neuron lipidomics.,Q16047894,California,1,Q33903054	P921	Q16047894
+PMC5509717,Q33903098,"Predictability of state-level flood damage in the conterminous United States: the role of hazard, exposure and vulnerability.",Q16047894,California,1,Q33903098	P921	Q16047894
+PMC5509725,Q33903140,Acoustic-transfection for genomic manipulation of single-cells using high frequency ultrasound.,Q16047894,California,1,Q33903140	P921	Q16047894
+PMC5509743,Q33903211,Comprehensive Multi-Dimensional MRI for the Simultaneous Assessment of Cardiopulmonary Anatomy and Physiology.,Q16047894,California,1,Q33903211	P921	Q16047894
+PMC5509989,Q33903596,Optimal perioperative anesthesia management for gynecologic interstitial brachytherapy.,Q16047894,California,1,Q33903596	P921	Q16047894
+PMC5510301,Q38369916,"Pharmacist-Driven Strategies for Hypertension Management in Los Angeles: A Community and Stakeholder Needs Assessment, 2014-2015.",Q16047894,California,1,Q38369916	P921	Q16047894
+PMC5511183,Q33905738,Gene-wide Association Study Reveals RNF122 Ubiquitin Ligase as a Novel Susceptibility Gene for Attention Deficit Hyperactivity Disorder.,Q16047894,California,1,Q33905738	P921	Q16047894
+PMC5511219,Q33905904,Retrieving Precise Three-Dimensional Deformation on the 2014 M6.0 South Napa Earthquake by Joint Inversion of Multi-Sensor SAR.,Q16047894,California,1,Q33905904	P921	Q16047894
+PMC5512505,Q33908162,"Phylogeography of Burkholderia pseudomallei Isolates, Western Hemisphere.",Q16047894,California,1,Q33908162	P921	Q16047894
+PMC5513706,Q33911242,"On the Origin of Reverse Transcriptase-Using CRISPR-Cas Systems and Their Hyperdiverse, Enigmatic Spacer Repertoires.",Q16047894,California,1,Q33911242	P921	Q16047894
+PMC5514090,Q33912032,Projection of American dustiness in the late 21st century due to climate change.,Q16047894,California,1,Q33912032	P921	Q16047894
 

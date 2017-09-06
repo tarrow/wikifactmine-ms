@@ -1,29 +1,72 @@
-PMC5530548,Q38646562,Protection mediated by chemokine CXCL10 in BALB/c mice infected by Leishmania infantum.,Q28335461,RAW 264.7,1,Q38646562	P921	Q28335461
-PMC5538826,Q38651215,Major satellite repeat RNA stabilize heterochromatin retention of Suv39h enzymes by RNA-nucleosome association and RNA:DNA hybrid formation.,Q28471145,to 2,1,Q38651215	P921	Q28471145
-PMC5539204,Q38430443,Integration of miRNA and mRNA expression profiles reveals microRNA-regulated networks during muscle wasting in cardiac cachexia.,Q5008075,C2C12,1,Q38430443	P921	Q5008075
-PMC5539237,Q38616795,Poly(HydroxyButyrate-co-HydroxyValerate) (PHBHV) Nanocarriers for Silymarin Release as Adjuvant Therapy in Colo-rectal Cancer.,Q28334700,HT-29,1,Q38616795	P921	Q28334700
-PMC5539260,Q38616692,Investigation of the Cross-talk Mechanism in Caco-2 Cells during Clostridium difficile Infection through Genetic-and-Epigenetic Interspecies Networks: Big Data Mining and Genome-Wide Identification.,Q5016050,Caco-2,1,Q38616692	P921	Q5016050
-PMC5540481,Q38429483,Pharmacoperone rescue of vasopressin 2 receptor mutants reveals unexpected constitutive activity and coupling bias.,Q847482,HeLa,1,Q38429483	P921	Q847482
-PMC5540485,Q38648361,"Improving patient safety culture in Saudi Arabia (2012-2015): trending, improvement and benchmarking.",Q28471145,to 2,1,Q38648361	P921	Q28471145
-PMC5540532,Q38646671,CRISPR/Cas9-mediated knockout of c-REL in HeLa cells results in profound defects of the cell cycle.,Q847482,HeLa,1,Q38646671	P921	Q847482
-PMC5546781,Q38621352,Effect of carbocisteine on patients with COPD: a systematic review and meta-analysis.,Q25112368,b16,1,Q38621352	P921	Q25112368
-PMC5548280,Q38638542,PDGF-metronidazole-encapsulated nanofibrous functional layers on collagen membrane promote alveolar ridge regeneration.,Q25112368,b16,1,Q38638542	P921	Q25112368
-PMC5550794,Q38609290,Laparoscopic ultrasonography as an alternative to intraoperative cholangiography during laparoscopic cholecystectomy.,Q28521737,Machi,1,Q38609290	P921	Q28521737
-PMC5538645,Q38649292,Dynamic transcriptome changes during adipose tissue energy expenditure reveal critical roles for long noncoding RNA regulators.,Q4636414,3T3-L1,1,Q38649292	P921	Q4636414
-PMC5550783,Q38694214,PBX1 attributes as a determinant of connexin 32 downregulation in Helicobacter pylori-related gastric carcinogenesis.,Q27546876,HEK293T,1,Q38694214	P921	Q27546876
-PMC5558632,Q38638521,Serum Osteocalcin and Testosterone Concentrations in Adult Males with or without Primary Osteoporosis: A Meta-Analysis.,Q25112368,B16,1,Q38638521	P921	Q25112368
-PMC5540291,Q38695963,Anti-tumor and anti-angiogenic effects of Fucoidan on prostate cancer: possible JAK-STAT3 pathway.,Q7118483,PC-3,1,Q38695963	P921	Q7118483
-PMC5540560,Q38648373,"Monoamine oxidase B is elevated in Alzheimer disease neurons, is associated with γ-secretase and regulates neuronal amyloid β-peptide levels.",Q489618,HEK293,1,Q38648373	P921	Q489618
-PMC5541071,Q38645850,Metformin Inhibits Cyst Formation in a Zebrafish Model of Polycystin-2 Deficiency.,Q28335011,MDCK,1,Q38645850	P921	Q28335011
-PMC5541742,Q38646275,Live-cell calcium imaging of adherent and non-adherent GL261 cells reveals phenotype-dependent differences in drug responses.,Q27547979,GL261,0.8333333333333334,Q38646275	P921	Q27547979
-PMC5539149,Q38648329,Selection of reference genes for expression analysis using RT-qPCR in the dissemination system of Heliothis virescens ascovirus 3 h (HvAV-3h).,Q2276068,Sf21,0.6666666666666666,Q38648329	P921	Q2276068
-PMC5541421,Q38646212,TREM2 in Neurodegenerative Diseases.,Q7670282,THP-1,0.6666666666666666,Q38646212	P921	Q7670282
-PMC5537225,Q38650711,Therapeutic efficacy of a respiratory syncytial virus fusion inhibitor.,Q847482,HeLa,0.5,Q38650711	P921	Q847482
-PMC5540501,Q38695555,The role of REST and HDAC2 in epigenetic dysregulation of Nav1.5 and nNav1.5 expression in breast cancer.,Q17577870,MDA-MB-231,0.5,Q38695555	P921	Q17577870
-PMC5554784,Q38646470,Dual RNA Processing Roles of Pat1b via Cytoplasmic Lsm1-7 and Nuclear Lsm2-8 Complexes.,Q489618,HEK293,0.5,Q38646470	P921	Q489618
-PMC5560418,Q38620573,Deficits in category learning in older adults: Rule-based versus clustering accounts.,Q27902825,c32,0.5,Q38620573	P921	Q27902825
-PMC5540453,Q38695956,Centella asiatica modulates cancer cachexia associated inflammatory cytokines and cell death in leukaemic THP-1 cells and peripheral blood mononuclear cells (PBMC's).,Q7670282,THP-1,0.38461538461538464,Q38695956	P921	Q7670282
-PMC5539091,Q38639865,Protopanaxadiol and Protopanaxatriol-Type Saponins Ameliorate Glucose and Lipid Metabolism in Type 2 Diabetes Mellitus in High-Fat Diet/Streptozocin-Induced Mice.,Q12513178,Min6,0.3333333333333333,Q38639865	P921	Q12513178
-PMC5546771,Q38694766,Exploring cellular uptake of iron oxide nanoparticles associated with rhodium citrate in breast cancer cells.,Q1881253,MCF-7,0.3333333333333333,Q38694766	P921	Q1881253
-PMC5539246,Q38639870,"HM015k, a Novel Silybin Derivative, Multi-Targets Metastatic Ovarian Cancer Cells and Is Safe in Zebrafish Toxicity Studies.",Q28335011,MDCK,0.25,Q38639870	P921	Q28335011
+PMC5503163,Q33887865,Biomarkers for predicting type 2 diabetes development-Can metabolomics improve on existing biomarkers?,Q12206,diabetes mellitus,0.7692307692307693,Q33887865	P921	Q12206
+PMC5507267,Q33897730,Short-term rehospitalization across the spectrum of age and insurance types in the United States.,Q12206,Diabetes Mellitus,0.7142857142857143,Q33897730	P921	Q12206
+PMC5504815,Q33892731,Positive association between musclin and insulin resistance in obesity: evidence of a human study and an animal experiment.,Q12174,Obesity,0.625,Q33892731	P921	Q12174
+PMC5507263,Q33897714,Increased urinary prostaglandin E2 metabolite: A potential therapeutic target of Gitelman syndrome.,Q1053120,Gitelman syndrome,0.5,Q33897714	P921	Q1053120
+PMC5507311,Q33897885,Direct medical cost associated with diabetic retinopathy severity in type 2 diabetes in Singapore.,Q631361,Diabetic retinopathy,0.47619047619047616,Q33897885	P921	Q631361
+PMC5504722,Q33892377,Serum lactate level and mortality in metformin-associated lactic acidosis requiring renal replacement therapy: a systematic review of case reports and case series.,Q1500373,lactic acidosis,0.45454545454545453,Q33892377	P921	Q1500373
+PMC5504847,Q33892872,Biochemical characterization and 1H NMR based metabolomics revealed Melicope lunu-ankenda leaf extract a potent anti-diabetic agent in rats.,Q12174,obesity,0.38461538461538464,Q33892872	P921	Q12174
+PMC5480102,Q33823342,Acute airway compromise due to parathyroid tumour apoplexy: an exceptionally rare and potentially life-threatening presentation.,Q1344835,hyperparathyroidism,0.38461538461538464,Q33823342	P921	Q1344835
+PMC5491170,Q33853527,Combined poor diabetes control indicators are associated with higher risks of diabetic retinopathy and macular edema than poor glycemic control alone.,Q12206,Diabetes Mellitus,0.38461538461538464,Q33853527	P921	Q12206
+PMC5493113,Q33859212,SGLT2 inhibitors as add on therapy in type 2 diabetes: a real world study.,Q12206,diabetes mellitus,0.38461538461538464,Q33859212	P921	Q12206
+PMC5498414,Q33875054,Investigation of newborns with abnormal results in a newborn screening program for four lysosomal storage diseases in Brazil.,Q1479681,mucopolysaccharidosis,0.38461538461538464,Q33875054	P921	Q1479681
+PMC5502143,Q33885732,Long-term efficacy and safety of sodium-glucose cotransporter-2 inhibitors as add-on to metformin treatment in the management of type 2 diabetes mellitus: A meta-analysis.,Q12206,diabetes mellitus,0.38461538461538464,Q33885732	P921	Q12206
+PMC5477452,Q33815573,Dose Modification of Antidiabetic Agents in Patients with Type 2 Diabetes Mellitus and Heart Failure.,Q12206,diabetes mellitus,0.35714285714285715,Q33815573	P921	Q12206
+PMC5493335,Q33860008,Effects of canagliflozin on weight loss in high-fat diet-induced obese mice.,Q12206,Diabetes Mellitus,0.35714285714285715,Q33860008	P921	Q12206
+PMC5496233,Q32109213,Fish oil supplementation and insulin sensitivity: a systematic review and meta-analysis,Q12174,obesity,0.35714285714285715,Q32109213	P921	Q12174
+PMC5498901,Q33876584,Serum-Free Thyroxine Levels Were Associated with Pulmonary Hypertension and Pulmonary Artery Systolic Pressure in Euthyroid Patients with Coronary Artery Disease.,Q11835644,thyroiditis,0.35714285714285715,Q33876584	P921	Q11835644
+PMC5499789,Q33878811,Chitosan oligosaccharide improves the therapeutic efficacy of sitagliptin for the therapy of Chinese elderly patients with type 2 diabetes mellitus.,Q12206,diabetes mellitus,0.35714285714285715,Q33878811	P921	Q12206
+PMC5500656,Q38665597,Weaker Functional Connectivity Strength in Patients with Type 2 Diabetes Mellitus.,Q12206,diabetes mellitus,0.35714285714285715,Q38665597	P921	Q12206
+PMC5500953,Q33882438,Effectiveness of dapagliflozin on vascular endothelial function and glycemic control in patients with early-stage type 2 diabetes mellitus: DEFENCE study.,Q12206,diabetes mellitus,0.35714285714285715,Q33882438	P921	Q12206
+PMC5501393,Q33883530,"Evaluating phecodes, clinical classification software, and ICD-9-CM codes for phenome-wide association studies in the electronic health record.",Q16501,hypothyroidism,0.35714285714285715,Q33883530	P921	Q16501
+PMC5501587,Q33884203,Examining the gender difference in the association between metabolic syndrome and the mean leukocyte telomere length.,Q12174,Obesity,0.35714285714285715,Q33884203	P921	Q12174
+PMC5511247,Q38373278,Functionally pathogenic EARS2 variants in vitro may not manifest a phenotype in vivo.,Q1821559,Leukodystrophy,0.35714285714285715,Q38373278	P921	Q1821559
+PMC5513347,Q33910549,Metabolic characteristics of individuals at a high risk of type 2 diabetes - a comparative cross-sectional study.,Q12174,obesity,0.35714285714285715,Q33910549	P921	Q12174
+PMC5516302,Q33916537,CD36 overexpression: a possible etiopathogenic mechanism of atherosclerosis in patients with prediabetes and diabetes.,Q12174,Obesity,0.35714285714285715,Q33916537	P921	Q12174
+PMC5516328,Q33916655,Environmental/lifestyle factors in the pathogenesis and prevention of type 2 diabetes.,Q12174,obesity,0.35714285714285715,Q33916655	P921	Q12174
+PMC5539214,Q38645363,Antidiabetic Effects of Gastric Banding Surgery in Morbidly Obese Patients with Type 2 Diabetes Mellitus.,Q12174,Obesity,0.35714285714285715,Q38645363	P921	Q12174
+PMC5507309,Q33897876,The induction of the transcription factor Nrf2 enhances the antinociceptive effects of delta-opioid receptors in diabetic mice.,Q12174,obesity,0.3333333333333333,Q33897876	P921	Q12174
+PMC5480999,Q33825537,Glucose dysregulation and response to common anti-diabetic agents in the FATZO/Pco mouse.,Q12174,obesity,0.3333333333333333,Q33825537	P921	Q12174
+PMC5487042,Q33842279,"Serum fatty acid-binding protein 4 (FABP4) concentration is associated with insulin resistance in peripheral tissues, A clinical study.",Q12174,obesity,0.3333333333333333,Q33842279	P921	Q12174
+PMC5494879,Q33864537,Impact of comorbidities on gout and hyperuricaemia: an update on prevalence and treatment options.,Q12206,diabetes mellitus,0.3333333333333333,Q33864537	P921	Q12206
+PMC5498637,Q33875881,Predictive value of CHADS2 and CHA2DS2-VASc scores for acute myocardial infarction in patients with atrial fibrillation.,Q16499,hyperthyroidism,0.3333333333333333,Q33875881	P921	Q16499
+PMC5500622,Q33881738,Thyroid Involvement in Hepatitis C Virus-Infected Patients with/without Mixed Cryoglobulinemia.,Q187842,Autoimmune thyroiditis,0.3333333333333333,Q33881738	P921	Q187842
+PMC5514105,Q33912087,"Effect of LDL cholesterol, statins and presence of mutations on the prevalence of type 2 diabetes in heterozygous familial hypercholesterolemia.",Q12206,diabetes mellitus,0.3333333333333333,Q33912087	P921	Q12206
+PMC5520333,Q33921731,Effect of insulin therapy and dietary adjustments on safety and performance during simulated soccer tests in people with type 1 diabetes: study protocol for a randomized controlled trial.,Q124407,type 1 diabetes mellitus,0.3333333333333333,Q33921731	P921	Q124407
+PMC5530523,Q38659596,"Risk factors for type 2 diabetes mellitus among out-patients in Ho, the Volta regional capital of Ghana: a case-control study.",Q12174,obesity,0.3333333333333333,Q38659596	P921	Q12174
+PMC5485703,Q33837598,Recommendations on clinical trial design for treatment of Mucopolysaccharidosis Type III.,Q1479681,Mucopolysaccharidosis,0.3125,Q33837598	P921	Q1479681
+PMC5509730,Q33903155,An extremely high dietary iodide supply forestalls severe hypothyroidism in Na+/I- symporter (NIS) knockout mice.,Q16501,hypothyroidism,0.3125,Q33903155	P921	Q16501
+PMC5512820,Q33908782,"Brazilian guidelines on prevention of cardiovascular disease in patients with diabetes: a position statement from the Brazilian Diabetes Society (SBD), the Brazilian Cardiology Society (SBC) and the Brazilian Endocrinology and Metabolism Society (SB",Q202758,hypoglycemia,0.3125,Q33908782	P921	Q202758
+PMC5514514,Q33913060,A randomized controlled trial comparing the effects of dapagliflozin and DPP-4 inhibitors on glucose variability and metabolic parameters in patients with type 2 diabetes mellitus on insulin.,Q12206,diabetes mellitus,0.3125,Q33913060	P921	Q12206
+PMC5514690,Q38656197,Microstructural abnormalities in white and gray matter in obese adolescents with and without type 2 diabetes.,Q12174,obesity,0.3125,Q38656197	P921	Q12174
+PMC5540357,Q38652031,KDIGO Clinical Practice Guideline on the Evaluation and Care of Living Kidney Donors.,Q49970,Hyperuricemia,0.3125,Q38652031	P921	Q49970
+PMC5477440,Q33815503,Osteoporosis in Otherwise Healthy Patients with Type 2 Diabetes: A Prospective Gender Based Comparative Study.,Q12206,diabetes mellitus,0.29411764705882354,Q33815503	P921	Q12206
+PMC5484774,Q33835389,Thyroid Autoimmunity and Lichen.,Q11835644,thyroiditis,0.29411764705882354,Q33835389	P921	Q11835644
+PMC5497611,Q33872752,Association between Hemoglobin Levels and Diabetic Peripheral Neuropathy in Patients with Type 2 Diabetes: A Cross-Sectional Study Using Electronic Health Records.,Q2046550,diabetic neuropathy,0.29411764705882354,Q33872752	P921	Q2046550
+PMC5501820,Q33884904,The chloride/phosphate ratio combined with alkaline phosphatase as a valuable predictive marker for primary hyperparathyroidism in Chinese individuals.,Q1344835,hyperparathyroidism,0.29411764705882354,Q33884904	P921	Q1344835
+PMC5503834,Q33889736,Enzyme activities of α-glucosidase in Japanese neonates with pseudodeficiency alleles.,Q1120682,Metachromatic leukodystrophy,0.29411764705882354,Q33889736	P921	Q1120682
+PMC5533573,Q38645792,Emerging use of combination therapies for the management of type 2 diabetes - focus on saxagliptin and dapagliflozin.,Q12206,diabetes mellitus,0.29411764705882354,Q38645792	P921	Q12206
+PMC5461317,Q33770355,Potential Association of Triglyceride Glucose Index with Cardiac Autonomic Neuropathy in Type 2 Diabetes Mellitus Patients.,Q12206,diabetes mellitus,0.2777777777777778,Q33770355	P921	Q12206
+PMC5490461,Q32186373,Effects of sodium-glucose co-transporter 2 (SGLT2) inhibition on renal function and albuminuria in patients with type 2 diabetes: a systematic review and meta-analysis.,Q12174,Obesity,0.2777777777777778,Q32186373	P921	Q12174
+PMC5513122,Q33909713,"Association of lipocalin-2 level, glycemic status and obesity in type 2 diabetes mellitus.",Q12174,obesity,0.2777777777777778,Q33909713	P921	Q12174
+PMC5534470,Q38616745,Thyroid Autoimmunity and Function after Treatment with Biological Antirheumatic Agents in Rheumatoid Arthritis.,Q16499,hyperthyroidism,0.2777777777777778,Q38616745	P921	Q16499
+PMC5503173,Q33887904,Contribution of molecular analysis to the typification of the non-functioning pituitary adenomas.,Q16499,Hyperthyroidism,0.2631578947368421,Q33887904	P921	Q16499
+PMC5499790,Q33878816,"Safety, tolerability, and risks associated with first- and second-generation antipsychotics: a state-of-the-art clinical review.",Q1433936,hyperprolactinemia,0.2631578947368421,Q33878816	P921	Q1433936
+PMC5501629,Q33884391,Insulin glargine 300 U/mL for basal insulin therapy in type 1 and type 2 diabetes mellitus.,Q12206,diabetes mellitus,0.2631578947368421,Q33884391	P921	Q12206
+PMC5477439,Q33815492,"Effect of Antithyroid Therapies on Bone and Body Composition: A Prospective, Randomized, Clinical Study Comparing Antithyroid Drugs with Radioiodine Therapy.",Q16499,hyperthyroidism,0.25,Q33815492	P921	Q16499
+PMC5487009,Q33842149,Increased risk of thyroid diseases in patients with systemic lupus erythematosus: A nationwide population-based Study in Korea.,Q11835644,thyroiditis,0.25,Q33842149	P921	Q11835644
+PMC5497638,Q33872886,Comparative Efficacy and Toxicity of Different Species of Sargassum in Haizao Yuhu Decoction in PTU-Induced Goiter Rats.,Q11835644,thyroiditis,0.25,Q33872886	P921	Q11835644
+PMC5521078,Q33922652,Association between serum osteocalcin and glucose/lipid metabolism in Chinese Han and Uygur populations with type 2 diabetes mellitus in Xinjiang: two cross-sectional studies.,Q12174,obesity,0.25,Q33922652	P921	Q12174
+PMC5477441,Q33815507,The Serological and Biochemical Markers of Adrenal Cortex and Endocrine Pancreas Dysfunction in Patients with Hashimoto's Thyroiditis: A Hospital-based Pilot Study.,Q11835644,thyroiditis,0.23809523809523808,Q33815507	P921	Q11835644
+PMC5509707,Q33903048,Insulin resistance and obesity among infertile women with different polycystic ovary syndrome phenotypes.,Q12174,obesity,0.23809523809523808,Q33903048	P921	Q12174
+PMC5521059,Q33922578,Case report: rare skeletal manifestations in a child with primary hyperparathyroidism.,Q1344835,hyperparathyroidism,0.22727272727272727,Q33922578	P921	Q1344835
+PMC5521080,Q33922666,Late onset asymptomatic pancreatic neuroendocrine tumor - A case report on the phenotypic expansion for MEN1.,Q1344835,hyperparathyroidism,0.22727272727272727,Q33922666	P921	Q1344835
+PMC5510454,Q33904257,Severe diabetic ketoacidosis complicated by hypocapnic seizure.,Q202758,Hypoglycemia,0.21739130434782608,Q33904257	P921	Q202758
+PMC5537210,Q38643184,Clinical practice guidelines for congenital hyperinsulinism.,Q14375936,hyperinsulinism,0.21739130434782608,Q38643184	P921	Q14375936
+PMC5537262,Q38430526,T2DiACoD: A Gene Atlas of Type 2 Diabetes Mellitus Associated Complex Disorders.,Q12174,obesity,0.20833333333333334,Q38430526	P921	Q12174
+PMC5480126,Q33823460,Incidence of thyroid dysfunction in an Iranian adult population: the predictor role of thyroid autoantibodies: results from a prospective population-based cohort study.,Q11835644,thyroiditis,0.2,Q33823460	P921	Q11835644
+PMC5509972,Q33903533,Premature ovarian failure.,Q647630,premature ovarian failure,0.2,Q33903533	P921	Q647630
+PMC5504823,Q33892759,Fainting Fanconi syndrome clarified by proxy: a case report.,Q1179460,Fanconi syndrome,0.19230769230769232,Q33892759	P921	Q1179460
+PMC5491546,Q33854441,Thyroid-Stimulating Hormone Receptor Antibodies in Pregnancy: Clinical Relevance.,Q11835644,thyroiditis,0.16129032258064516,Q33854441	P921	Q11835644
+PMC5500627,Q38652950,Pharmaceutical Chaperones and Proteostasis Regulators in the Therapy of Lysosomal Storage Disorders: Current Perspective and Future Promises.,Q1493513,gangliosidosis,0.13513513513513514,Q38652950	P921	Q1493513
+PMC5511798,Q33906963,"Medical genetics and genomic medicine in the United States of America. Part 1: history, demographics, legislation, and burden of disease.",Q1442621,Tangier disease,0.125,Q33906963	P921	Q1442621
 

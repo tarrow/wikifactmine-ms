@@ -1,29 +1,68 @@
-PMC5530548,Q38646562,Protection mediated by chemokine CXCL10 in BALB/c mice infected by Leishmania infantum.,Q28335461,RAW 264.7,1,Q38646562	P921	Q28335461
-PMC5538826,Q38651215,Major satellite repeat RNA stabilize heterochromatin retention of Suv39h enzymes by RNA-nucleosome association and RNA:DNA hybrid formation.,Q28471145,to 2,1,Q38651215	P921	Q28471145
-PMC5539204,Q38430443,Integration of miRNA and mRNA expression profiles reveals microRNA-regulated networks during muscle wasting in cardiac cachexia.,Q5008075,C2C12,1,Q38430443	P921	Q5008075
-PMC5539237,Q38616795,Poly(HydroxyButyrate-co-HydroxyValerate) (PHBHV) Nanocarriers for Silymarin Release as Adjuvant Therapy in Colo-rectal Cancer.,Q28334700,HT-29,1,Q38616795	P921	Q28334700
-PMC5539260,Q38616692,Investigation of the Cross-talk Mechanism in Caco-2 Cells during Clostridium difficile Infection through Genetic-and-Epigenetic Interspecies Networks: Big Data Mining and Genome-Wide Identification.,Q5016050,Caco-2,1,Q38616692	P921	Q5016050
-PMC5540481,Q38429483,Pharmacoperone rescue of vasopressin 2 receptor mutants reveals unexpected constitutive activity and coupling bias.,Q847482,HeLa,1,Q38429483	P921	Q847482
-PMC5540485,Q38648361,"Improving patient safety culture in Saudi Arabia (2012-2015): trending, improvement and benchmarking.",Q28471145,to 2,1,Q38648361	P921	Q28471145
-PMC5540532,Q38646671,CRISPR/Cas9-mediated knockout of c-REL in HeLa cells results in profound defects of the cell cycle.,Q847482,HeLa,1,Q38646671	P921	Q847482
-PMC5546781,Q38621352,Effect of carbocisteine on patients with COPD: a systematic review and meta-analysis.,Q25112368,b16,1,Q38621352	P921	Q25112368
-PMC5548280,Q38638542,PDGF-metronidazole-encapsulated nanofibrous functional layers on collagen membrane promote alveolar ridge regeneration.,Q25112368,b16,1,Q38638542	P921	Q25112368
-PMC5550794,Q38609290,Laparoscopic ultrasonography as an alternative to intraoperative cholangiography during laparoscopic cholecystectomy.,Q28521737,Machi,1,Q38609290	P921	Q28521737
-PMC5538645,Q38649292,Dynamic transcriptome changes during adipose tissue energy expenditure reveal critical roles for long noncoding RNA regulators.,Q4636414,3T3-L1,1,Q38649292	P921	Q4636414
-PMC5550783,Q38694214,PBX1 attributes as a determinant of connexin 32 downregulation in Helicobacter pylori-related gastric carcinogenesis.,Q27546876,HEK293T,1,Q38694214	P921	Q27546876
-PMC5558632,Q38638521,Serum Osteocalcin and Testosterone Concentrations in Adult Males with or without Primary Osteoporosis: A Meta-Analysis.,Q25112368,B16,1,Q38638521	P921	Q25112368
-PMC5540291,Q38695963,Anti-tumor and anti-angiogenic effects of Fucoidan on prostate cancer: possible JAK-STAT3 pathway.,Q7118483,PC-3,1,Q38695963	P921	Q7118483
-PMC5540560,Q38648373,"Monoamine oxidase B is elevated in Alzheimer disease neurons, is associated with γ-secretase and regulates neuronal amyloid β-peptide levels.",Q489618,HEK293,1,Q38648373	P921	Q489618
-PMC5541071,Q38645850,Metformin Inhibits Cyst Formation in a Zebrafish Model of Polycystin-2 Deficiency.,Q28335011,MDCK,1,Q38645850	P921	Q28335011
-PMC5541742,Q38646275,Live-cell calcium imaging of adherent and non-adherent GL261 cells reveals phenotype-dependent differences in drug responses.,Q27547979,GL261,0.8333333333333334,Q38646275	P921	Q27547979
-PMC5539149,Q38648329,Selection of reference genes for expression analysis using RT-qPCR in the dissemination system of Heliothis virescens ascovirus 3 h (HvAV-3h).,Q2276068,Sf21,0.6666666666666666,Q38648329	P921	Q2276068
-PMC5541421,Q38646212,TREM2 in Neurodegenerative Diseases.,Q7670282,THP-1,0.6666666666666666,Q38646212	P921	Q7670282
-PMC5537225,Q38650711,Therapeutic efficacy of a respiratory syncytial virus fusion inhibitor.,Q847482,HeLa,0.5,Q38650711	P921	Q847482
-PMC5540501,Q38695555,The role of REST and HDAC2 in epigenetic dysregulation of Nav1.5 and nNav1.5 expression in breast cancer.,Q17577870,MDA-MB-231,0.5,Q38695555	P921	Q17577870
-PMC5554784,Q38646470,Dual RNA Processing Roles of Pat1b via Cytoplasmic Lsm1-7 and Nuclear Lsm2-8 Complexes.,Q489618,HEK293,0.5,Q38646470	P921	Q489618
-PMC5560418,Q38620573,Deficits in category learning in older adults: Rule-based versus clustering accounts.,Q27902825,c32,0.5,Q38620573	P921	Q27902825
-PMC5540453,Q38695956,Centella asiatica modulates cancer cachexia associated inflammatory cytokines and cell death in leukaemic THP-1 cells and peripheral blood mononuclear cells (PBMC's).,Q7670282,THP-1,0.38461538461538464,Q38695956	P921	Q7670282
-PMC5539091,Q38639865,Protopanaxadiol and Protopanaxatriol-Type Saponins Ameliorate Glucose and Lipid Metabolism in Type 2 Diabetes Mellitus in High-Fat Diet/Streptozocin-Induced Mice.,Q12513178,Min6,0.3333333333333333,Q38639865	P921	Q12513178
-PMC5546771,Q38694766,Exploring cellular uptake of iron oxide nanoparticles associated with rhodium citrate in breast cancer cells.,Q1881253,MCF-7,0.3333333333333333,Q38694766	P921	Q1881253
-PMC5539246,Q38639870,"HM015k, a Novel Silybin Derivative, Multi-Targets Metastatic Ovarian Cancer Cells and Is Safe in Zebrafish Toxicity Studies.",Q28335011,MDCK,0.25,Q38639870	P921	Q28335011
+PMC5503269,Q33888300,Asiatic acid protects against cognitive deficits and reductions in cell proliferation and survival in the rat hippocampus caused by 5-fluorouracil chemotherapy.,Q238512,fluorouracil,0.47368421052631576,Q33888300	P921	Q238512
+PMC5503264,Q38682328,Integer programming for improving radiotherapy treatment efficiency.,Q412415,Cisplatin,0.34782608695652173,Q38682328	P921	Q412415
+PMC5507312,Q33897890,Cyclophosphamide leads to persistent deficits in physical performance and in vivo mitochondria function in a mouse model of chemotherapy late effects.,Q18936,Doxorubicin,0.3125,Q33897890	P921	Q18936
+PMC5479038,Q33820379,"Single- or double-unit UCBT following RIC in adults with AL: a report from Eurocord, the ALWP and the CTIWP of the EBMT.",Q348922,busulfan,0.3125,Q33820379	P921	Q348922
+PMC5447141,Q33442096,Universal tolerance of nab-paclitaxel for gynecologic malignancies in patients with prior taxane hypersensitivity reactions.,Q415588,carboplatin,0.29411764705882354,Q33442096	P921	Q415588
+PMC5493843,Q33861668,The role of hormonal therapy in patients with relapsed high-grade ovarian carcinoma: a retrospective series of tamoxifen and letrozole.,Q194974,letrozole,0.29411764705882354,Q33861668	P921	Q194974
+PMC5507526,Q33898518,Platinum nanoparticles induce damage to DNA and inhibit DNA replication.,Q412415,cisplatin,0.29411764705882354,Q33898518	P921	Q412415
+PMC5487900,Q33844564,Update on Treatment Options for Advanced Bile Duct Tumours: Radioembolisation for Advanced Cholangiocarcinoma.,Q414143,gemcitabine,0.2777777777777778,Q33844564	P921	Q414143
+PMC5500515,Q33881254,Future trends and emerging issues for nanodelivery systems in oral and oropharyngeal cancer.,Q423762,paclitaxel,0.2777777777777778,Q33881254	P921	Q423762
+PMC5512733,Q33908553,Therapeutic options for treatment of human papillomavirus-associated cancers - novel immunologic vaccines: ADXS11-001.,Q19856779,mitomycin,0.2777777777777778,Q33908553	P921	Q19856779
+PMC5514521,Q33913101,"Highlights of the 31st annual meeting of the Society for Immunotherapy of Cancer (SITC), 2016.",Q20707748,atezolizumab,0.2777777777777778,Q33913101	P921	Q20707748
+PMC5526264,Q38661895,Recent developments in immunotherapy of acute myeloid leukemia.,Q180983,cytarabine,0.2777777777777778,Q38661895	P921	Q180983
+PMC5492432,Q32177441,Actions of sesquiterpene lactones isolated from Moquiniastrum polymorphum subsp. floccosum in MCF7 cell line and their potentiating action on doxorubicin.,Q18936,doxorubicin,0.2631578947368421,Q32177441	P921	Q18936
+PMC5514117,Q33912148,Genetic Polymorphisms and Platinum-based Chemotherapy Treatment Outcomes in Patients with Non-Small Cell Lung Cancer: A Genetic Epidemiology Study Based Meta-analysis.,Q412415,Cisplatin,0.2631578947368421,Q33912148	P921	Q412415
+PMC5503853,Q33889809,FLT-PET for early response evaluation of colorectal cancer patients with liver metastases: a prospective study.,Q412197,irinotecan,0.25,Q33889809	P921	Q412197
+PMC5487328,Q33842870,The role of SET/I2PP2A in canine mammary tumors.,Q18936,doxorubicin,0.25,Q33842870	P921	Q18936
+PMC5493300,Q33859877,Analysis of the role of intratecal liposomal cytarabine in the prophylaxis and treatment of central nervous system lymphomatosis: The Balearic Lymphoma Group experience.,Q180983,cytarabine,0.25,Q33859877	P921	Q180983
+PMC5511941,Q33907242,Treatment of connective tissue disease-associated interstitial lung disease: the pulmonologist's point of view.,Q408524,Cyclophosphamide,0.25,Q33907242	P921	Q408524
+PMC5513029,Q33909338,EP300 single nucleotide polymorphism rs20551 correlates with prolonged overall survival in diffuse large B cell lymphoma patients treated with R-CHOP.,Q412323,Rituximab,0.25,Q33909338	P921	Q412323
+PMC5513368,Q33910655,Current knowledge on feline injection-site sarcoma treatment.,Q18936,Doxorubicin,0.25,Q33910655	P921	Q18936
+PMC5530465,Q38659697,Influence of chemotherapeutic drug-related gene polymorphisms on toxicity and survival of early breast cancer patients receiving adjuvant chemotherapy.,Q238512,fluorouracil,0.25,Q38659697	P921	Q238512
+PMC5530569,Q38650842,Alliance for clinical trials in oncology (ALLIANCE) trial A021501: preoperative extended chemotherapy vs. chemotherapy plus hypofractionated radiation therapy for borderline resectable adenocarcinoma of the head of the pancreas.,Q238512,fluorouracil,0.25,Q38650842	P921	Q238512
+PMC5532783,Q38657096,A retrospective study of reproductive outcomes after fertility-sparing surgery and postoperative adjuvant chemotherapy in malignant ovarian germ cell tumors and sex cord-stromal tumors.,Q408977,vincristine,0.25,Q38657096	P921	Q408977
+PMC5480180,Q33823731,Diagnostic relevance of urinary steroid profiles on ovarian granulosa cell tumors: two case reports.,Q412415,cisplatin,0.23809523809523808,Q33823731	P921	Q412415
+PMC5481954,Q33827589,Acute myeloid leukemia and pregnancy: clinical experience from a single center and a review of the literature.,Q1063862,idarubicin,0.23809523809523808,Q33827589	P921	Q1063862
+PMC5490215,Q33851067,The effect of geriatric intervention in frail elderly patients receiving chemotherapy for colorectal cancer: a randomized trial (GERICO).,Q238512,fluorouracil,0.23809523809523808,Q33851067	P921	Q238512
+PMC5492401,Q32177609,A phase I/II trial of fixed-dose stereotactic body radiotherapy with sequential or concurrent pembrolizumab in metastatic urothelial carcinoma: evaluation of safety and clinical and immunologic response.,Q412415,cisplatin,0.23809523809523808,Q32177609	P921	Q412415
+PMC5499002,Q33876861,Ongoing clinical trials of PD-1 and PD-L1 inhibitors for lung cancer in China.,Q20707748,atezolizumab,0.23809523809523808,Q33876861	P921	Q20707748
+PMC5506596,Q38658472,Anticancer activities and mechanisms of heat-clearing and detoxicating traditional Chinese herbal medicine.,Q238512,fluorouracil,0.23809523809523808,Q38658472	P921	Q238512
+PMC5536012,Q38679229,Pharmacogenomics of Targeted Agents for Personalization of Colorectal Cancer Treatment.,Q238512,fluorouracil,0.23809523809523808,Q38679229	P921	Q238512
+PMC5496165,Q33443338,Fatal pulmonary embolism following splenectomy in a patient with Evan's syndrome: case report and review of the literature.,Q212272,Hydroxyurea,0.22727272727272727,Q33443338	P921	Q212272
+PMC5496368,Q33869257,MDM2/X inhibitors under clinical evaluation: perspectives for the management of hematological malignancies and pediatric cancer.,Q180983,cytarabine,0.22727272727272727,Q33869257	P921	Q180983
+PMC5493882,Q33861857,Bilateral ptosis as first presentation of cytophagic histiocytic panniculitis: a case report.,Q11426176,prednisolone,0.2222222222222222,Q33861857	P921	Q11426176
+PMC5482433,Q38711948,Real-world first-line treatment and overall survival in non-small cell lung cancer without known EGFR mutations or ALK rearrangements in US community oncology setting.,Q412415,Cisplatin,0.21739130434782608,Q38711948	P921	Q412415
+PMC5530962,Q38657061,Drug-induced amino acid deprivation as strategy for cancer therapy.,Q408977,vincristine,0.21739130434782608,Q38657061	P921	Q408977
+PMC5513878,Q38661390,Emerging treatments for HER2-positive early-stage breast cancer: focus on neratinib.,Q18936,doxorubicin,0.20833333333333334,Q38661390	P921	Q18936
+PMC5490227,Q32187309,Prognostic and predictive factors in patients with metastatic or recurrent cervical cancer treated with platinum-based chemotherapy.,Q412415,cisplatin,0.20833333333333334,Q32187309	P921	Q412415
+PMC5505311,Q33893974,"The Elevation of Cardio-Ankle Vascular Index in a Patient With Malignant Lymphoma Treated With a Combination Therapy of Rituximab and Cyclophosphamide, Doxorubicin, Vincristine, and Prednisolone.",Q11426176,prednisolone,0.2,Q33893974	P921	Q11426176
+PMC5511945,Q33907261,Clinicopathological characteristics of extremely young Korean multiple myeloma patients: therapeutic implications.,Q203174,thalidomide,0.2,Q33907261	P921	Q203174
+PMC5517798,Q33919252,Real-life clinical practice results with vinflunine in patients with relapsed platinum-treated metastatic urothelial carcinoma: an Italian multicenter study (MOVIE-GOIRC 01-2014).,Q412415,cisplatin,0.2,Q33919252	P921	Q412415
+PMC5522681,Q38648991,Elastic liposomes as novel carriers: recent advances in drug delivery.,Q238512,fluorouracil,0.2,Q38648991	P921	Q238512
+PMC5492395,Q38656720,Integrating Hyperthermia into Modern Radiation Oncology: What Evidence Is Necessary?,Q412415,cisplatin,0.19230769230769232,Q38656720	P921	Q412415
+PMC5499929,Q33879174,Patients harboring ALK rearrangement adenocarcinoma after acquired resistance to crizotinib and transformation to small-cell lung cancer: a case report.,Q412415,Cisplatin,0.19230769230769232,Q33879174	P921	Q412415
+PMC5500564,Q33881477,Tumoral expression of drug and xenobiotic metabolizing enzymes in breast cancer patients of different ethnicities with implications to personalized medicine.,Q408524,cyclophosphamide,0.19230769230769232,Q33881477	P921	Q408524
+PMC5536073,Q38654867,"The Role of Tumor Microenvironment in Chemoresistance: To Survive, Keep Your Enemies Closer.",Q412415,cisplatin,0.19230769230769232,Q38654867	P921	Q412415
+PMC5541083,Q38645852,"Capecitabine, 5-fluorouracil and S-1 based regimens for previously untreated advanced oesophagogastric cancer: A network meta-analysis.",Q238512,fluorouracil,0.19230769230769232,Q38645852	P921	Q238512
+PMC5520233,Q33921599,A gestational choriocarcinoma of the ovary diagnosed by DNA polymorphic analysis: a case report and systematic review of the literature.,Q418817,etoposide,0.19047619047619047,Q33921599	P921	Q418817
+PMC5493675,Q33861071,Infection is an Independent Predictor of Death in Diffuse Large B Cell Lymphoma.,Q11426176,prednisolone,0.18518518518518517,Q33861071	P921	Q11426176
+PMC5498486,Q33875284,Generation of novel patient-derived CIC- DUX4 sarcoma xenografts and cell lines.,Q18936,doxorubicin,0.18518518518518517,Q33875284	P921	Q18936
+PMC5533568,Q38645796,Cost of illness of urothelial bladder cancer in Italy.,Q412415,cisplatin,0.18518518518518517,Q38645796	P921	Q412415
+PMC5447152,Q33735170,Update on rare epithelial ovarian cancers: based on the Rare Ovarian Tumors Young Investigator Conference.,Q415588,carboplatin,0.17857142857142858,Q33735170	P921	Q415588
+PMC5509659,Q33902814,Efficacy and safety of taxane-based systemic chemotherapy of advanced gastric cancer: A systematic review and meta-analysis.,Q238512,fluorouracil,0.1724137931034483,Q33902814	P921	Q238512
+PMC5479561,Q33821866,Plasma cell neoplasia after kidney transplantation: French cohort series and review of the literature.,Q2298283,melphalan,0.16666666666666666,Q33821866	P921	Q2298283
+PMC5489479,Q33849037,A systematic review and meta-analysis of traditional insect Chinese medicines combined chemotherapy for non-surgical hepatocellular carcinoma therapy.,Q238512,fluorouracil,0.16666666666666666,Q33849037	P921	Q238512
+PMC5499926,Q33879154,Optimizing the treatment of bevacizumab as first-line therapy for human epidermal growth factor receptor 2 (HER2)-negative advanced breast cancer: an updated meta-analysis of published randomized trials.,Q408524,cyclophosphamide,0.16666666666666666,Q33879154	P921	Q408524
+PMC5496205,Q33868520,Mangafodipir a Selective Cytoprotectant - with Special Reference to Oxaliplatin and Its Association to Chemotherapy-Induced Peripheral Neuropathy (CIPN).,Q18936,doxorubicin,0.16129032258064516,Q33868520	P921	Q18936
+PMC5519731,Q38652510,CREATE-X a role for capecitabine in early-stage breast cancer: an analysis of available data.,Q238512,fluorouracil,0.16129032258064516,Q38652510	P921	Q238512
+PMC5516873,Q38648979,New PD-L1 inhibitors in non-small cell lung cancer - impact of atezolizumab.,Q20707748,atezolizumab,0.15625,Q38648979	P921	Q20707748
+PMC5482808,Q33829859,"Dacomitinib, a pan-inhibitor of ErbB receptors, suppresses growth and invasive capacity of chemoresistant ovarian carcinoma cells.",Q18936,doxorubicin,0.15151515151515152,Q33829859	P921	Q18936
+PMC5503170,Q33887891,Cancer trials in sub-Saharan Africa: Aligning research and care.,Q408977,vincristine,0.14705882352941177,Q33887891	P921	Q408977
+PMC5484428,Q33834535,"Beyond Endemic Burkitt Lymphoma: Navigating Challenges of Differentiating Childhood Lymphoma Diagnoses Amid Limitations in Pathology Resources in Lilongwe, Malawi.",Q18936,Doxorubicin,0.14705882352941177,Q33834535	P921	Q18936
+PMC5513856,Q38661374,Induction regimens for transplant-eligible patients with newly diagnosed multiple myeloma: a network meta-analysis of randomized controlled trials.,Q18936,doxorubicin,0.14285714285714285,Q38661374	P921	Q18936
+PMC5548882,Q38695896,Small cell lung carcinoma cell line screen of etoposide/carboplatin plus a third agent.,Q412415,cisplatin,0.14285714285714285,Q38695896	P921	Q412415
+PMC5498917,Q33876637,Chemotherapy and tumor microenvironment of pancreatic cancer.,Q238512,fluorouracil,0.13513513513513514,Q33876637	P921	Q238512
+PMC5502821,Q33887443,Challenges to cervical cancer treatment in Bangladesh: The development of a women's cancer ward at Dhaka Medical College Hospital.,Q408977,vincristine,0.13157894736842105,Q33887443	P921	Q408977
+PMC5535286,Q38653148,"Prognostic role of ABO blood type in patients with extranodal natural killer/T cell lymphoma, nasal type: a triple-center study.",Q18936,doxorubicin,0.125,Q38653148	P921	Q18936
+PMC5495034,Q33865098,Metastatic triple-negative breast cancer patient with TP53 tumor mutation experienced 11 months progression-free survival on bortezomib monotherapy without adverse events after ending standard treatments with grade 3 adverse events.,Q18936,Doxorubicin,0.11904761904761904,Q33865098	P921	Q18936
 

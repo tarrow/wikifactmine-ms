@@ -1,29 +1,64 @@
-PMC5530548,Q38646562,Protection mediated by chemokine CXCL10 in BALB/c mice infected by Leishmania infantum.,Q28335461,RAW 264.7,1,Q38646562	P921	Q28335461
-PMC5538826,Q38651215,Major satellite repeat RNA stabilize heterochromatin retention of Suv39h enzymes by RNA-nucleosome association and RNA:DNA hybrid formation.,Q28471145,to 2,1,Q38651215	P921	Q28471145
-PMC5539204,Q38430443,Integration of miRNA and mRNA expression profiles reveals microRNA-regulated networks during muscle wasting in cardiac cachexia.,Q5008075,C2C12,1,Q38430443	P921	Q5008075
-PMC5539237,Q38616795,Poly(HydroxyButyrate-co-HydroxyValerate) (PHBHV) Nanocarriers for Silymarin Release as Adjuvant Therapy in Colo-rectal Cancer.,Q28334700,HT-29,1,Q38616795	P921	Q28334700
-PMC5539260,Q38616692,Investigation of the Cross-talk Mechanism in Caco-2 Cells during Clostridium difficile Infection through Genetic-and-Epigenetic Interspecies Networks: Big Data Mining and Genome-Wide Identification.,Q5016050,Caco-2,1,Q38616692	P921	Q5016050
-PMC5540481,Q38429483,Pharmacoperone rescue of vasopressin 2 receptor mutants reveals unexpected constitutive activity and coupling bias.,Q847482,HeLa,1,Q38429483	P921	Q847482
-PMC5540485,Q38648361,"Improving patient safety culture in Saudi Arabia (2012-2015): trending, improvement and benchmarking.",Q28471145,to 2,1,Q38648361	P921	Q28471145
-PMC5540532,Q38646671,CRISPR/Cas9-mediated knockout of c-REL in HeLa cells results in profound defects of the cell cycle.,Q847482,HeLa,1,Q38646671	P921	Q847482
-PMC5546781,Q38621352,Effect of carbocisteine on patients with COPD: a systematic review and meta-analysis.,Q25112368,b16,1,Q38621352	P921	Q25112368
-PMC5548280,Q38638542,PDGF-metronidazole-encapsulated nanofibrous functional layers on collagen membrane promote alveolar ridge regeneration.,Q25112368,b16,1,Q38638542	P921	Q25112368
-PMC5550794,Q38609290,Laparoscopic ultrasonography as an alternative to intraoperative cholangiography during laparoscopic cholecystectomy.,Q28521737,Machi,1,Q38609290	P921	Q28521737
-PMC5538645,Q38649292,Dynamic transcriptome changes during adipose tissue energy expenditure reveal critical roles for long noncoding RNA regulators.,Q4636414,3T3-L1,1,Q38649292	P921	Q4636414
-PMC5550783,Q38694214,PBX1 attributes as a determinant of connexin 32 downregulation in Helicobacter pylori-related gastric carcinogenesis.,Q27546876,HEK293T,1,Q38694214	P921	Q27546876
-PMC5558632,Q38638521,Serum Osteocalcin and Testosterone Concentrations in Adult Males with or without Primary Osteoporosis: A Meta-Analysis.,Q25112368,B16,1,Q38638521	P921	Q25112368
-PMC5540291,Q38695963,Anti-tumor and anti-angiogenic effects of Fucoidan on prostate cancer: possible JAK-STAT3 pathway.,Q7118483,PC-3,1,Q38695963	P921	Q7118483
-PMC5540560,Q38648373,"Monoamine oxidase B is elevated in Alzheimer disease neurons, is associated with γ-secretase and regulates neuronal amyloid β-peptide levels.",Q489618,HEK293,1,Q38648373	P921	Q489618
-PMC5541071,Q38645850,Metformin Inhibits Cyst Formation in a Zebrafish Model of Polycystin-2 Deficiency.,Q28335011,MDCK,1,Q38645850	P921	Q28335011
-PMC5541742,Q38646275,Live-cell calcium imaging of adherent and non-adherent GL261 cells reveals phenotype-dependent differences in drug responses.,Q27547979,GL261,0.8333333333333334,Q38646275	P921	Q27547979
-PMC5539149,Q38648329,Selection of reference genes for expression analysis using RT-qPCR in the dissemination system of Heliothis virescens ascovirus 3 h (HvAV-3h).,Q2276068,Sf21,0.6666666666666666,Q38648329	P921	Q2276068
-PMC5541421,Q38646212,TREM2 in Neurodegenerative Diseases.,Q7670282,THP-1,0.6666666666666666,Q38646212	P921	Q7670282
-PMC5537225,Q38650711,Therapeutic efficacy of a respiratory syncytial virus fusion inhibitor.,Q847482,HeLa,0.5,Q38650711	P921	Q847482
-PMC5540501,Q38695555,The role of REST and HDAC2 in epigenetic dysregulation of Nav1.5 and nNav1.5 expression in breast cancer.,Q17577870,MDA-MB-231,0.5,Q38695555	P921	Q17577870
-PMC5554784,Q38646470,Dual RNA Processing Roles of Pat1b via Cytoplasmic Lsm1-7 and Nuclear Lsm2-8 Complexes.,Q489618,HEK293,0.5,Q38646470	P921	Q489618
-PMC5560418,Q38620573,Deficits in category learning in older adults: Rule-based versus clustering accounts.,Q27902825,c32,0.5,Q38620573	P921	Q27902825
-PMC5540453,Q38695956,Centella asiatica modulates cancer cachexia associated inflammatory cytokines and cell death in leukaemic THP-1 cells and peripheral blood mononuclear cells (PBMC's).,Q7670282,THP-1,0.38461538461538464,Q38695956	P921	Q7670282
-PMC5539091,Q38639865,Protopanaxadiol and Protopanaxatriol-Type Saponins Ameliorate Glucose and Lipid Metabolism in Type 2 Diabetes Mellitus in High-Fat Diet/Streptozocin-Induced Mice.,Q12513178,Min6,0.3333333333333333,Q38639865	P921	Q12513178
-PMC5546771,Q38694766,Exploring cellular uptake of iron oxide nanoparticles associated with rhodium citrate in breast cancer cells.,Q1881253,MCF-7,0.3333333333333333,Q38694766	P921	Q1881253
-PMC5539246,Q38639870,"HM015k, a Novel Silybin Derivative, Multi-Targets Metastatic Ovarian Cancer Cells and Is Safe in Zebrafish Toxicity Studies.",Q28335011,MDCK,0.25,Q38639870	P921	Q28335011
+PMC5503229,Q33888114,Immune profiles and clinical outcomes between sepsis patients with or without active cancer requiring admission to intensive care units.,Q12078,cancer,0.2857142857142857,Q33888114	P921	Q12078
+PMC5503938,Q33890093,Human snoRNA-93 is processed into a microRNA-like RNA that promotes breast cancer cell invasion.,Q128581,Breast Cancer,0.24390243902439024,Q33890093	P921	Q128581
+PMC5502487,Q38685910,Multiparametric magnetic resonance imaging in mucosal primary head and neck cancer: a prospective imaging biomarker study.,Q1783924,head and neck cancer,0.23809523809523808,Q38685910	P921	Q1783924
+PMC5503939,Q33890100,CD44v8-10 as a potential theranostic biomarker for targeting disseminated cancer cells in advanced gastric cancer.,Q12078,cancer,0.23809523809523808,Q33890100	P921	Q12078
+PMC5503228,Q33888107,Cancer in Korean patients with end-stage renal disease: A 7-year follow-up.,Q1164529,renal cell carcinoma,0.2,Q33888107	P921	Q1164529
+PMC5504034,Q33890351,Differential co-expression analysis reveals a novel prognostic gene module in ovarian cancer.,Q12078,cancer,0.2,Q33890351	P921	Q12078
+PMC5503943,Q33890125,Circulating tumor cells in peripheral and pulmonary venous blood predict poor long-term survival in resected non-small cell lung cancer patients.,Q12078,cancer,0.19230769230769232,Q33890125	P921	Q12078
+PMC5503265,Q33888276,Expression levels of cleaved caspase-3 and caspase-3 in tumorigenesis and prognosis of oral tongue squamous cell carcinoma.,Q28757362,tongue squamous cell carcinoma,0.17857142857142858,Q33888276	P921	Q28757362
+PMC5503170,Q33887891,Cancer trials in sub-Saharan Africa: Aligning research and care.,Q12078,Cancer,0.1694915254237288,Q33887891	P921	Q12078
+PMC5477919,Q33816831,Benchmarking life expectancy and cancer mortality: global comparison with cardiovascular disease 1981-2010.,Q128581,breast cancer,0.16666666666666666,Q33816831	P921	Q128581
+PMC5498870,Q33876439,Individual and co-expression patterns of nerve growth factor and heme oxygenase-1 predict shorter survival of gastric carcinoma patients.,Q128581,breast cancer,0.16129032258064516,Q33876439	P921	Q128581
+PMC5514532,Q33913152,"The role of tumour heterogeneity and clonal cooperativity in metastasis, immune evasion and clinical outcome.",Q12078,cancer,0.16129032258064516,Q33913152	P921	Q12078
+PMC5522384,Q38369552,Prognostic role of Glasgow prognostic score in patients with colorectal cancer: evidence from population studies.,Q12078,cancer,0.16129032258064516,Q38369552	P921	Q12078
+PMC5524709,Q38652434,Fibulin-3 promotes osteosarcoma invasion and metastasis by inducing epithelial to mesenchymal transition and activating the Wnt/β-catenin signaling pathway.,Q172341,ovarian cancer,0.16129032258064516,Q38652434	P921	Q172341
+PMC5526281,Q38661848,Identification of reference miRNAs in plasma useful for the study of oestrogen-responsive miRNAs associated with acquired Protein S deficiency in pregnancy.,Q12078,cancer,0.16129032258064516,Q38661848	P921	Q12078
+PMC5529368,Q38659246,Rap2a serves as a potential prognostic indicator of renal cell carcinoma and promotes its migration and invasion through up-regulating p-Akt.,Q1164529,Renal cell carcinoma,0.16129032258064516,Q38659246	P921	Q1164529
+PMC5535255,Q38665073,Mesoporous Silica Nanoparticles as Drug Delivery Vehicles in Cancer.,Q1148337,hepatocellular carcinoma,0.16129032258064516,Q38665073	P921	Q1148337
+PMC5483280,Q33831066,PRC1 contributes to tumorigenesis of lung adenocarcinoma in association with the Wnt/β-catenin signaling pathway.,Q1148337,hepatocellular carcinoma,0.15625,Q33831066	P921	Q1148337
+PMC5485747,Q33837764,Identifying global expression patterns and key regulators in epithelial to mesenchymal transition through multi-study integration.,Q12078,cancer,0.15625,Q33837764	P921	Q12078
+PMC5501560,Q33884098,Diagnostic accuracy of ELISA for detecting serum Midkine in cancer patients.,Q1148337,Hepatocellular Carcinoma,0.15625,Q33884098	P921	Q1148337
+PMC5504932,Q38663358,MiR-195 Inhibits Tumor Growth and Metastasis in Papillary Thyroid Carcinoma Cell Lines by Targeting CCND1 and FGF2.,Q1148337,hepatocellular carcinoma,0.15625,Q38663358	P921	Q1148337
+PMC5505986,Q33894926,GTSE1 promotes cell migration and invasion by regulating EMT in hepatocellular carcinoma and is associated with poor prognosis.,Q33525,carcinoma,0.15625,Q33894926	P921	Q33525
+PMC5507944,Q38656298,Simultaneous Methylation-Level Assessment of Hundreds of CpG Sites by Targeted Bisulfite PCR Sequencing (TBPseq).,Q12078,cancer,0.15625,Q38656298	P921	Q12078
+PMC5521024,Q38666834,Inhibition of pRB Pathway Differentially Modulates Apoptosis in Esophageal Cancer Cells.,Q33525,carcinoma,0.15625,Q38666834	P921	Q33525
+PMC5483250,Q33830894,HOXB7 accelerates the malignant progression of hepatocellular carcinoma by promoting stemness and epithelial-mesenchymal transition.,Q1148337,Hepatocellular carcinoma,0.15151515151515152,Q33830894	P921	Q1148337
+PMC5504775,Q33892569,"Long non-coding RNA linc00673 regulated non-small cell lung cancer proliferation, migration, invasion and epithelial mesenchymal transition by sponging miR-150-5p.",Q1148337,hepatocellular carcinoma,0.15151515151515152,Q33892569	P921	Q1148337
+PMC5507885,Q33899288,PSMA expression by microvasculature of thyroid tumors - Potential implications for PSMA theranostics.,Q181257,prostate cancer,0.15151515151515152,Q33899288	P921	Q181257
+PMC5514521,Q33913101,"Highlights of the 31st annual meeting of the Society for Immunotherapy of Cancer (SITC), 2016.",Q180614,melanoma,0.15151515151515152,Q33913101	P921	Q180614
+PMC5517804,Q33919290,Regulation of glucose uptake in lymphoma cell lines by c-MYC- and PI3K-dependent signaling pathways and impact of glycolytic pathways on cell viability.,Q4833719,B cell lymphoma,0.15151515151515152,Q33919290	P921	Q4833719
+PMC5556200,Q38368993,The association between XPG polymorphisms and cancer susceptibility: Evidence from observational studies.,Q12078,cancer,0.15151515151515152,Q38368993	P921	Q12078
+PMC5498629,Q33875858,The lincRNA-ROR/miR-145 axis promotes invasion and metastasis in hepatocellular carcinoma via induction of epithelial-mesenchymal transition by targeting ZEB2.,Q1148337,hepatocellular carcinoma,0.14705882352941177,Q33875858	P921	Q1148337
+PMC5498997,Q33876833,"Evolution of educational inequalities in site-specific cancer mortality among Belgian men between the 1990s and 2000s using a ""fundamental cause"" perspective.",Q12078,cancer,0.14705882352941177,Q33876833	P921	Q12078
+PMC5512733,Q33908553,Therapeutic options for treatment of human papillomavirus-associated cancers - novel immunologic vaccines: ADXS11-001.,Q12078,Cancer,0.14705882352941177,Q33908553	P921	Q12078
+PMC5514100,Q33912058,"Clinical Significance and Effect of lncRNA HOXA11-AS in NSCLC: A Study Based on Bioinformatics, In Vitro and in Vivo Verification.",Q172341,ovarian cancer,0.14705882352941177,Q33912058	P921	Q172341
+PMC5516091,Q38667837,UALCAN: A Portal for Facilitating Tumor Subgroup Gene Expression and Survival Analyses.,Q1148337,hepatocellular carcinoma,0.14705882352941177,Q38667837	P921	Q1148337
+PMC5496318,Q33869005,A comprehensive genomic pan-cancer classification using The Cancer Genome Atlas gene expression data.,Q180614,Melanoma,0.14285714285714285,Q33869005	P921	Q180614
+PMC5499933,Q33879198,The effect of circulating miR-223 on surveillance of different cancers: a meta-analysis.,Q18556110,lung carcinoma,0.14285714285714285,Q33879198	P921	Q18556110
+PMC5533474,Q38645800,Distinct prognostic values of alcohol dehydrogenase mRNA expression in pancreatic adenocarcinoma.,Q188874,colorectal cancer,0.14285714285714285,Q38645800	P921	Q188874
+PMC5490007,Q33850534,Recurrent mutation of IGF signalling genes and distinct patterns of genomic rearrangement in osteosarcoma.,Q356033,adenocarcinoma,0.1388888888888889,Q33850534	P921	Q356033
+PMC5509736,Q33903170,The influence of marital status on survival of gallbladder cancer patients: a population-based study.,Q12078,cancer,0.1388888888888889,Q33903170	P921	Q12078
+PMC5484479,Q33834660,The economic burden of human papillomavirus-related precancers and cancers in Sweden.,Q11613500,tongue cancer,0.13513513513513514,Q33834660	P921	Q11613500
+PMC5480155,Q33823613,Dysregulated expression of long noncoding RNAs in gynecologic cancers.,Q12078,Cancer,0.13157894736842105,Q33823613	P921	Q12078
+PMC5520903,Q38668036,"MYBL2 (B-Myb): a central regulator of cell proliferation, cell survival and differentiation involved in tumorigenesis.",Q128581,breast cancer,0.13157894736842105,Q38668036	P921	Q128581
+PMC5501948,Q33885293,The effects of the location of cancer stem cell marker CD133 on the prognosis of hepatocellular carcinoma patients.,Q1148337,hepatocellular carcinoma,0.125,Q33885293	P921	Q1148337
+PMC5519590,Q33920919,Anti-Tumor Activity and Immunotherapeutic Potential of a Bisphosphonate Prodrug.,Q1164529,renal cell carcinoma,0.125,Q33920919	P921	Q1164529
+PMC5526308,Q38661866,Exosomes derived from gemcitabine-resistant cells transfer malignant phenotypic traits via delivery of miRNA-222-3p.,Q12078,Cancer,0.11904761904761904,Q38661866	P921	Q12078
+PMC5541720,Q38651973,ASCT2 regulates glutamine uptake and cell growth in endometrial carcinoma.,Q12078,cancer,0.11627906976744186,Q38651973	P921	Q12078
+PMC5490219,Q33851085,Hereditary pancreatic cancer: related syndromes and clinical perspective.,Q12078,Cancer,0.1111111111111111,Q33851085	P921	Q12078
+PMC5527318,Q38695836,Endothelial protein C receptor is overexpressed in colorectal cancer as a result of amplification and hypomethylation of chromosome 20q.,Q12078,Cancer,0.1111111111111111,Q38695836	P921	Q12078
+PMC5502303,Q33886196,MicroRNA-26a inhibits the growth and invasiveness of malignant melanoma and directly targets on MITF gene.,Q128581,breast cancer,0.10989010989010989,Q33886196	P921	Q128581
+PMC5498561,Q33875615,Cytokine-Induced Killer Cells As Pharmacological Tools for Cancer Immunotherapy.,Q1148337,hepatocellular carcinoma,0.10638297872340426,Q33875615	P921	Q1148337
+PMC5501586,Q33884196,Assessment of circulating copy number variant detection for cancer screening.,Q12078,Cancer,0.10416666666666667,Q33884196	P921	Q12078
+PMC5539135,Q38616707,Cancer Immunotherapy: Historical Perspective of a Clinical Revolution and Emerging Preclinical Animal Models.,Q1164529,renal cell carcinoma,0.08771929824561403,Q38616707	P921	Q1164529
+PMC5496368,Q33869257,MDM2/X inhibitors under clinical evaluation: perspectives for the management of hematological malignancies and pediatric cancer.,Q11688946,myeloid leukemia,0.0847457627118644,Q33869257	P921	Q11688946
+PMC5496884,Q33870659,Copy number alteration of neuropeptides and receptors in multiple cancers.,Q12078,cancer,0.08196721311475409,Q33870659	P921	Q12078
+PMC5484668,Q33835183,Prognostic value of CD146 in solid tumor: A Systematic Review and Meta-analysis.,Q1148337,hepatocellular carcinoma,0.08064516129032258,Q33835183	P921	Q1148337
+PMC5514481,Q33912938,Colony-stimulating factor 1 receptor (CSF1R) inhibitors in cancer therapy.,Q172341,ovarian cancer,0.08064516129032258,Q33912938	P921	Q172341
+PMC5530962,Q38657061,Drug-induced amino acid deprivation as strategy for cancer therapy.,Q1077603,mesothelioma,0.08064516129032258,Q38657061	P921	Q1077603
+PMC5558674,Q38613166,A New Network-Based Strategy for Predicting the Potential miRNA-mRNA Interactions in Tumorigenesis.,Q1148337,hepatocellular carcinoma,0.07142857142857142,Q38613166	P921	Q1148337
+PMC5536073,Q38654867,"The Role of Tumor Microenvironment in Chemoresistance: To Survive, Keep Your Enemies Closer.",Q1148337,hepatocellular carcinoma,0.06578947368421052,Q38654867	P921	Q1148337
+PMC5480124,Q33823452,The NF1 somatic mutational landscape in sporadic human cancers.,Q128581,Breast cancer,0.06329113924050633,Q33823452	P921	Q128581
+PMC5511191,Q33905783,The CINSARC signature as a prognostic marker for clinical outcome in multiple neoplasms.,Q12078,cancer,0.05952380952380952,Q33905783	P921	Q12078
+PMC5506596,Q38658472,Anticancer activities and mechanisms of heat-clearing and detoxicating traditional Chinese herbal medicine.,Q1148337,hepatocellular carcinoma,0.056179775280898875,Q38658472	P921	Q1148337
 

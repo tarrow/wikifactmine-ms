@@ -1,29 +1,58 @@
-PMC5530548,Q38646562,Protection mediated by chemokine CXCL10 in BALB/c mice infected by Leishmania infantum.,Q28335461,RAW 264.7,1,Q38646562	P921	Q28335461
-PMC5538826,Q38651215,Major satellite repeat RNA stabilize heterochromatin retention of Suv39h enzymes by RNA-nucleosome association and RNA:DNA hybrid formation.,Q28471145,to 2,1,Q38651215	P921	Q28471145
-PMC5539204,Q38430443,Integration of miRNA and mRNA expression profiles reveals microRNA-regulated networks during muscle wasting in cardiac cachexia.,Q5008075,C2C12,1,Q38430443	P921	Q5008075
-PMC5539237,Q38616795,Poly(HydroxyButyrate-co-HydroxyValerate) (PHBHV) Nanocarriers for Silymarin Release as Adjuvant Therapy in Colo-rectal Cancer.,Q28334700,HT-29,1,Q38616795	P921	Q28334700
-PMC5539260,Q38616692,Investigation of the Cross-talk Mechanism in Caco-2 Cells during Clostridium difficile Infection through Genetic-and-Epigenetic Interspecies Networks: Big Data Mining and Genome-Wide Identification.,Q5016050,Caco-2,1,Q38616692	P921	Q5016050
-PMC5540481,Q38429483,Pharmacoperone rescue of vasopressin 2 receptor mutants reveals unexpected constitutive activity and coupling bias.,Q847482,HeLa,1,Q38429483	P921	Q847482
-PMC5540485,Q38648361,"Improving patient safety culture in Saudi Arabia (2012-2015): trending, improvement and benchmarking.",Q28471145,to 2,1,Q38648361	P921	Q28471145
-PMC5540532,Q38646671,CRISPR/Cas9-mediated knockout of c-REL in HeLa cells results in profound defects of the cell cycle.,Q847482,HeLa,1,Q38646671	P921	Q847482
-PMC5546781,Q38621352,Effect of carbocisteine on patients with COPD: a systematic review and meta-analysis.,Q25112368,b16,1,Q38621352	P921	Q25112368
-PMC5548280,Q38638542,PDGF-metronidazole-encapsulated nanofibrous functional layers on collagen membrane promote alveolar ridge regeneration.,Q25112368,b16,1,Q38638542	P921	Q25112368
-PMC5550794,Q38609290,Laparoscopic ultrasonography as an alternative to intraoperative cholangiography during laparoscopic cholecystectomy.,Q28521737,Machi,1,Q38609290	P921	Q28521737
-PMC5538645,Q38649292,Dynamic transcriptome changes during adipose tissue energy expenditure reveal critical roles for long noncoding RNA regulators.,Q4636414,3T3-L1,1,Q38649292	P921	Q4636414
-PMC5550783,Q38694214,PBX1 attributes as a determinant of connexin 32 downregulation in Helicobacter pylori-related gastric carcinogenesis.,Q27546876,HEK293T,1,Q38694214	P921	Q27546876
-PMC5558632,Q38638521,Serum Osteocalcin and Testosterone Concentrations in Adult Males with or without Primary Osteoporosis: A Meta-Analysis.,Q25112368,B16,1,Q38638521	P921	Q25112368
-PMC5540291,Q38695963,Anti-tumor and anti-angiogenic effects of Fucoidan on prostate cancer: possible JAK-STAT3 pathway.,Q7118483,PC-3,1,Q38695963	P921	Q7118483
-PMC5540560,Q38648373,"Monoamine oxidase B is elevated in Alzheimer disease neurons, is associated with γ-secretase and regulates neuronal amyloid β-peptide levels.",Q489618,HEK293,1,Q38648373	P921	Q489618
-PMC5541071,Q38645850,Metformin Inhibits Cyst Formation in a Zebrafish Model of Polycystin-2 Deficiency.,Q28335011,MDCK,1,Q38645850	P921	Q28335011
-PMC5541742,Q38646275,Live-cell calcium imaging of adherent and non-adherent GL261 cells reveals phenotype-dependent differences in drug responses.,Q27547979,GL261,0.8333333333333334,Q38646275	P921	Q27547979
-PMC5539149,Q38648329,Selection of reference genes for expression analysis using RT-qPCR in the dissemination system of Heliothis virescens ascovirus 3 h (HvAV-3h).,Q2276068,Sf21,0.6666666666666666,Q38648329	P921	Q2276068
-PMC5541421,Q38646212,TREM2 in Neurodegenerative Diseases.,Q7670282,THP-1,0.6666666666666666,Q38646212	P921	Q7670282
-PMC5537225,Q38650711,Therapeutic efficacy of a respiratory syncytial virus fusion inhibitor.,Q847482,HeLa,0.5,Q38650711	P921	Q847482
-PMC5540501,Q38695555,The role of REST and HDAC2 in epigenetic dysregulation of Nav1.5 and nNav1.5 expression in breast cancer.,Q17577870,MDA-MB-231,0.5,Q38695555	P921	Q17577870
-PMC5554784,Q38646470,Dual RNA Processing Roles of Pat1b via Cytoplasmic Lsm1-7 and Nuclear Lsm2-8 Complexes.,Q489618,HEK293,0.5,Q38646470	P921	Q489618
-PMC5560418,Q38620573,Deficits in category learning in older adults: Rule-based versus clustering accounts.,Q27902825,c32,0.5,Q38620573	P921	Q27902825
-PMC5540453,Q38695956,Centella asiatica modulates cancer cachexia associated inflammatory cytokines and cell death in leukaemic THP-1 cells and peripheral blood mononuclear cells (PBMC's).,Q7670282,THP-1,0.38461538461538464,Q38695956	P921	Q7670282
-PMC5539091,Q38639865,Protopanaxadiol and Protopanaxatriol-Type Saponins Ameliorate Glucose and Lipid Metabolism in Type 2 Diabetes Mellitus in High-Fat Diet/Streptozocin-Induced Mice.,Q12513178,Min6,0.3333333333333333,Q38639865	P921	Q12513178
-PMC5546771,Q38694766,Exploring cellular uptake of iron oxide nanoparticles associated with rhodium citrate in breast cancer cells.,Q1881253,MCF-7,0.3333333333333333,Q38694766	P921	Q1881253
-PMC5539246,Q38639870,"HM015k, a Novel Silybin Derivative, Multi-Targets Metastatic Ovarian Cancer Cells and Is Safe in Zebrafish Toxicity Studies.",Q28335011,MDCK,0.25,Q38639870	P921	Q28335011
+PMC5507314,Q33897901,Plasma bradykinin and early diabetic nephropathy lesions in type 1 diabetes mellitus.,Q422185,enalapril,1,Q33897901	P921	Q422185
+PMC5513848,Q38661428,Evaluation of the stability of linezolid in aqueous solution and commonly used intravenous fluids.,Q2314,Sodium chloride,1,Q38661428	P921	Q2314
+PMC5513880,Q38661427,Pattern of statin use changes following media coverage of its side effects.,Q670131,Simvastatin,0.8,Q38661427	P921	Q670131
+PMC5503173,Q33887904,Contribution of molecular analysis to the typification of the non-functioning pituitary adenomas.,Q423308,cabergoline,0.7142857142857143,Q33887904	P921	Q423308
+PMC5486148,Q33839188,Fucaceae: A Source of Bioactive Phlorotannins.,Q422252,dexamethasone,0.7142857142857143,Q33839188	P921	Q422252
+PMC5488394,Q33846431,30 YEARS OF THE MINERALOCORTICOID RECEPTOR: Mineralocorticoid receptor antagonists: 60 years of research and development.,Q422188,spironolactone,0.7142857142857143,Q33846431	P921	Q422188
+PMC5491159,Q33853484,Renal sodium handling and sodium sensitivity.,Q2314,sodium chloride,0.7142857142857143,Q33853484	P921	Q2314
+PMC5492455,Q33857373,An Expanding World of Novel Psychoactive Substances: Opioids.,Q179452,amphetamine,0.7142857142857143,Q33857373	P921	Q179452
+PMC5500902,Q33882297,"Resolution of Cochlear Inflammation: Novel Target for Preventing or Ameliorating Drug-, Noise- and Age-related Hearing Loss.",Q422252,dexamethasone,0.7142857142857143,Q33882297	P921	Q422252
+PMC5501617,Q33884323,Functional analysis of the zebrafish ortholog of HMGCS1 reveals independent functions for cholesterol and isoprenoids in craniofacial development.,Q668093,atorvastatin,0.7142857142857143,Q33884323	P921	Q668093
+PMC5504756,Q33892516,The impact of the time of drug administration on the effectiveness of combined treatment of hypercholesterolemia with Rosuvastatin and Ezetimibe (RosEze): study protocol for a randomized controlled trial.,Q417997,ezetimibe,0.7142857142857143,Q33892516	P921	Q417997
+PMC5514478,Q33912919,Generic atorvastatin is as effective as the brand-name drug (LIPITOR®) in lowering cholesterol levels: a cross-sectional retrospective cohort study.,Q668093,atorvastatin,0.7142857142857143,Q33912919	P921	Q668093
+PMC5477442,Q33815513,Menstrual Cycle Abnormalities in Patients with Prolactinoma and Drug-induced Hyperprolactinemia.,Q423308,cabergoline,0.625,Q33815513	P921	Q423308
+PMC5482844,Q33829987,Prednisolone induces apoptosis in corneal epithelial cells through the intrinsic pathway.,Q422252,dexamethasone,0.625,Q33829987	P921	Q422252
+PMC5485891,Q33838191,Hospital admissions and mortality in patients with COPD exacerbations and vertebral body compression fractures.,Q424972,prednisone,0.625,Q33838191	P921	Q424972
+PMC5494169,Q33862676,"Construction, internal validation and implementation in a mobile application of a scoring system to predict nonadherence to proton pump inhibitors.",Q422210,Omeprazole,0.625,Q33862676	P921	Q422210
+PMC5495996,Q33867559,Associations of centrally acting ACE inhibitors with cognitive decline and survival in Alzheimer's disease.,Q421119,captopril,0.625,Q33867559	P921	Q421119
+PMC5496293,Q33868919,Acylation-stimulating protein is a surrogate biomarker for acute myocardial infarction: Role of statins.,Q668093,atorvastatin,0.625,Q33868919	P921	Q668093
+PMC5508614,Q33900951,Association of schizophrenia onset age and white matter integrity with treatment effect of D-cycloserine: a randomized placebo-controlled double-blind crossover study.,Q418508,cycloserine,0.625,Q33900951	P921	Q418508
+PMC5498977,Q33876767,IgA N- and O-glycosylation profiling reveals no association with the pregnancy-related improvement in rheumatoid arthritis.,Q424972,prednisone,0.5714285714285714,Q33876767	P921	Q424972
+PMC5457744,Q33760070,An observational study of 110 elderly lithium-treated patients followed up for 6 years with particular reference to renal function.,Q773449,levothyroxine,0.5555555555555556,Q33760070	P921	Q773449
+PMC5489567,Q33849385,Protein Lipidation As a Regulator of Apoptotic Calcium Release: Relevance to Cancer.,Q670131,Simvastatin,0.5555555555555556,Q33849385	P921	Q670131
+PMC5497638,Q33872886,Comparative Efficacy and Toxicity of Different Species of Sargassum in Haizao Yuhu Decoction in PTU-Induced Goiter Rats.,Q20817224,Thyroglobulin,0.5555555555555556,Q33872886	P921	Q20817224
+PMC5501533,Q33883980,Somatosensory function in patients with secondary adrenal insufficiency treated with two different doses of hydrocortisone-Results from a randomized controlled trial.,Q190875,hydrocortisone,0.5555555555555556,Q33883980	P921	Q190875
+PMC5537210,Q38643184,Clinical practice guidelines for congenital hyperinsulinism.,Q420009,diazoxide,0.5555555555555556,Q38643184	P921	Q420009
+PMC5537213,Q38626921,Benign course after acute high dose levothyroxine intoxication in a 3-year-old boy.,Q773449,levothyroxine,0.5555555555555556,Q38626921	P921	Q773449
+PMC5513856,Q38661374,Induction regimens for transplant-eligible patients with newly diagnosed multiple myeloma: a network meta-analysis of randomized controlled trials.,Q422252,dexamethasone,0.5,Q38661374	P921	Q422252
+PMC5479561,Q33821866,Plasma cell neoplasia after kidney transplantation: French cohort series and review of the literature.,Q422252,dexamethasone,0.5,Q33821866	P921	Q422252
+PMC5481449,Q33826381,How Postmortem Redistribution of MDMA in Acute Alcohol-MDMA Combined-Use Rats Change under Effects of Alcohol.,Q179452,amphetamine,0.5,Q33826381	P921	Q179452
+PMC5488481,Q38706423,Perioperative systemic steroid for rapid recovery in total knee and hip arthroplasty: a systematic review and meta-analysis of randomized trials.,Q422252,dexamethasone,0.5,Q38706423	P921	Q422252
+PMC5491912,Q33855395,Incidence and Severity of Prescribing Errors in Parenteral Nutrition for Pediatric Inpatients at a Neonatal and Pediatric Intensive Care Unit.,Q184630,potassium chloride,0.5,Q33855395	P921	Q184630
+PMC5511941,Q33907242,Treatment of connective tissue disease-associated interstitial lung disease: the pulmonologist's point of view.,Q421094,hydroxychloroquine,0.5,Q33907242	P921	Q421094
+PMC5507254,Q33897671,"Renin inhibition improves metabolic syndrome, and reduces angiotensin II levels and oxidative stress in visceral fat tissues in fructose-fed rats.",Q139195,calcitriol,0.5,Q33897671	P921	Q139195
+PMC5507263,Q33897714,Increased urinary prostaglandin E2 metabolite: A potential therapeutic target of Gitelman syndrome.,Q2314,sodium-chloride,0.5,Q33897714	P921	Q2314
+PMC5477434,Q33815469,Myopathy in Patients Taking Atorvastatin: A Pilot Study.,Q668093,atorvastatin,0.45454545454545453,Q33815469	P921	Q668093
+PMC5478733,Q33819365,Cannabinoids and Vanilloids in Schizophrenia: Neurophysiological Evidence and Directions for Basic Research.,Q179452,amphetamine,0.45454545454545453,Q33819365	P921	Q179452
+PMC5497951,Q33873720,"Ecstasy induces reactive oxygen species, kidney water absorption and rhabdomyolysis in normal rats. Effect of N-acetylcysteine and Allopurinol in oxidative stress and muscle fiber damage.",Q179452,amphetamine,0.45454545454545453,Q33873720	P921	Q179452
+PMC5504204,Q33890781,The Changing Landscape of Alopecia Areata: The Translational Landscape.,Q417997,Ezetimibe,0.45454545454545453,Q33890781	P921	Q417997
+PMC5496643,Q33870087,Evaluation of rational nonsteroidal anti-inflammatory drugs and gastro-protective agents use; association rule data mining using outpatient prescription patterns.,Q422210,Omeprazole,0.4166666666666667,Q33870087	P921	Q422210
+PMC5501555,Q33884078,Non-skeletal health effects of vitamin D supplementation: A systematic review on findings from meta-analyses summarizing trial data.,Q139195,Calcitriol,0.4166666666666667,Q33884078	P921	Q139195
+PMC5512985,Q33909264,"Rhabdomyolysis in an HIV cohort: epidemiology, causes and outcomes.",Q668093,atorvastatin,0.375,Q33909264	P921	Q668093
+PMC5491546,Q33854441,Thyroid-Stimulating Hormone Receptor Antibodies in Pregnancy: Clinical Relevance.,Q419663,methimazole,0.36363636363636365,Q33854441	P921	Q419663
+PMC5525304,Q38664321,"Efficacy and safety of proprotein convertase subtilisin-kexin type 9 (PCSK9) inhibitors, alirocumab and evolocumab, a post-commercialization study.",Q417997,ezetimibe,0.35714285714285715,Q38664321	P921	Q417997
+PMC5533333,Q38655230,Simvastatin dose and acute kidney injury without concurrent serious muscle injury: A nationwide nested case-control study.,Q668093,atorvastatin,0.3333333333333333,Q38655230	P921	Q668093
+PMC5537940,Q38651269,The renin-angiotensin system: a possible new target for depression.,Q421119,captopril,0.3333333333333333,Q38651269	P921	Q421119
+PMC5497821,Q33873364,Recent advances in preventing stroke recurrence.,Q419995,amiloride,0.3333333333333333,Q33873364	P921	Q419995
+PMC5511264,Q33906118,Dietary geranylgeraniol can limit the activity of pitavastatin as a potential treatment for drug-resistant ovarian cancer.,Q417740,lovastatin,0.3125,Q33906118	P921	Q417740
+PMC5516312,Q38557048,Inhibition of Toll-Like Receptor Signaling as a Promising Therapy for Inflammatory Diseases: A Journey from Molecular to Nano Therapeutics.,Q421094,Hydroxychloroquine,0.3076923076923077,Q38557048	P921	Q421094
+PMC5496264,Q33868780,"Lipid management in India: a nationwide, cross-sectional physician survey.",Q417997,ezetimibe,0.29411764705882354,Q33868780	P921	Q417997
+PMC5514095,Q33912042,Proton Pump Inhibitors and the Risk for Fracture at Specific Sites: Data Mining of the FDA Adverse Event Reporting System.,Q422210,Omeprazole,0.29411764705882354,Q33912042	P921	Q422210
+PMC5496259,Q33868751,"A red yeast rice-olive extract supplement reduces biomarkers of oxidative stress, OxLDL and Lp-PLA2, in subjects with metabolic syndrome: a randomised, double-blind, placebo-controlled trial.",Q1240093,pravastatin,0.2857142857142857,Q33868751	P921	Q1240093
+PMC5492988,Q32173585,Use of generic and essential medicines for prevention and treatment of cardiovascular diseases in Portugal.,Q668093,atorvastatin,0.2631578947368421,Q32173585	P921	Q668093
+PMC5483291,Q33831121,Stress ulcer prophylaxis versus placebo or no prophylaxis in adult hospitalised acutely ill patients-protocol for a systematic review with meta-analysis and trial sequential analysis.,Q409492,cimetidine,0.25,Q33831121	P921	Q409492
+PMC5483302,Q33831184,Effect of ezetimibe add-on therapy over 52 weeks extension analysis of prospective randomized trial (RESEARCH study) in type 2 diabetes subjects.,Q417997,ezetimibe,0.23809523809523808,Q33831184	P921	Q417997
+PMC5488493,Q33846796,Drug-related problems and medication reviews among old people with dementia.,Q422188,spironolactone,0.23809523809523808,Q33846796	P921	Q422188
+PMC5512820,Q33908782,"Brazilian guidelines on prevention of cardiovascular disease in patients with diabetes: a position statement from the Brazilian Diabetes Society (SBD), the Brazilian Cardiology Society (SBC) and the Brazilian Endocrinology and Metabolism Society (SB",Q417997,ezetimibe,0.19230769230769232,Q33908782	P921	Q417997
+PMC5496598,Q33869996,"Estimating the direct costs of ischemic heart disease: evidence from a teaching hospital in BRAZIL, a retrospective cohort study.",Q421119,Captopril,0.1875,Q33869996	P921	Q421119
 
