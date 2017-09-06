@@ -4,8 +4,8 @@ var request = require('request-promise-native')
 var stringify = require('csv-stringify')
 
 // this will return tf-idf for different terms in the elasticsearch index by dictionary
-var fileContents = fs.readFileSync('vitales-sample.json')
-var totalCounts = {} // this should be populated with all the counts needed nut 
+var fileContents = fs.readFileSync('celllines-sample.json')
+var totalCounts = {} // this should be populated with all the counts needed
 var data = JSON.parse(fileContents)
 var results = []
 var qids = []
@@ -35,8 +35,11 @@ var doExtraction = function (element) {
   })
   .then(function (response) {
     var title = response.results.bindings[0].title.value
+    var re = /Q[0-9]+$/
+    var paperWikiId = re.exec(response.results.bindings[0].item.value)[0]
     results.push({
       paper: paperPMCID,
+      paperWikiId: paperWikiId,
       paperTitle: title,
       mainTopics: [
         {id: mainTopicID, term: element.fact_count.buckets[0].documents.hits.hits[0]._source.term, score: element.fact_count.buckets[0].doc_count / element.doc_count}
@@ -68,7 +71,17 @@ serial(funcs)
 .then(() => {
 
   var sortedResults = _.orderBy(results, ['mainTopics[0].score'], ['desc'])
-  stringify(sortedResults.map((x) => { return [x.paper, x.paperTitle, x.mainTopics[0].id, x.mainTopics[0].term, x.mainTopics[0].score] }), (err, out) => {
+  stringify(sortedResults.map((x) => {
+    return [
+      x.paper,
+      x.paperWikiId,
+      x.paperTitle,
+      x.mainTopics[0].id,
+      x.mainTopics[0].term,
+      x.mainTopics[0].score,
+      x.paperWikiId + '\tP921\t' + x.mainTopics[0].id
+    ]
+  }), (err, out) => {
     if (err) throw err
     console.log(out)
   })
